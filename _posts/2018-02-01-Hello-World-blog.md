@@ -2,8 +2,8 @@
 layout: post
 title: Initial Blog Post | Blog Details
 audio: false
-comments: true  
-location: Dhaka, Bangladesh
+comments: true
+categories: Mumblings
 ---
 
 First of all, greetings. And gratitude to **Github pages** for allowing me to host this blog free of any cost. Cool.
