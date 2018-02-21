@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        /:slug/
+# relative_permalinks: true
+
+# Setup
+title:            Ove's Notes
+tagline:          'Notes about this and that and softwares'
+description:      'An INTJ, CSE Undergrad Coder Who Writes Executable Poetry'
+url:              https://github.com/ovebepari
+baseurl:          
+
+author:
+  name:           'ovebepari'
+  url:            https://github.com/ovebepari
+
+paginate:         5
+message:          
