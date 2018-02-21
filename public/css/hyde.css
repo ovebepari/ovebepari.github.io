@@ -266,6 +266,7 @@ a.sidebar-nav-item:focus {
     border-radius: .28571429rem;
     -webkit-transition: background .1s ease;
     transition: background .1s ease;
+    margin: 0.5833em;
 }
 .tags a{
     color: rgba(0,0,0,.6);
