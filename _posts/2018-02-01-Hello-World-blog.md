@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Initial Blog Post | Blog Details
-audio: false
 comments: true
 categories: Mumblings
 ---

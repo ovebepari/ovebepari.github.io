@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Challenge, Being A Human Calculator
-audio: false
-comments: true  
-location: Dhaka, Bangladesh
+comments: false
 categories: Personal
 ---
 
