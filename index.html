@@ -20,7 +20,7 @@ title: Home
 <div class="category">
   {% comment %} For categories {% endcomment %}
   {% if site.categories %}
-  <h1>Read by Categories</h1>
+  <h2>Read by Categories</h2>
       {% for category in site.categories %}
         {% capture category_name %}{{ category | first }}{% endcapture %}
         <span class="tags">
