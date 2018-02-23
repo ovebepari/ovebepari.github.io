@@ -279,8 +279,8 @@ a.sidebar-nav-item:focus {
 .recent_post_title{
   margin-bottom: 0;
 }
-.category{
-  /*margin-top: 1em;*/
+div.category{
+  margin-top: 4em;
 }
 
 .social-links{
