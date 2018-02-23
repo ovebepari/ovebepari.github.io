@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:      rouge
 
 # Permalinks
-permalink:        /:slug/
+permalink:        /:categories/:slug/
 # relative_permalinks: true
 
 # Setup

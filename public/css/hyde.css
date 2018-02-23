@@ -282,3 +282,15 @@ a.sidebar-nav-item:focus {
 .category{
   /*margin-top: 1em;*/
 }
+
+.social-links{
+  margin:0.235em 0.235em;
+}
+
+.social-links a i.fa{
+  color:#fff;
+}
+
+a.category{
+  opacity: 0.6;
+}

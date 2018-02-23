@@ -3,6 +3,7 @@ layout: post
 title: Challenge, Being A Human Calculator
 comments: false
 categories: Personal
+location: Dhaka, Bangladesh
 ---
 
 So I was in market today and bought a few fishes and had to calculate the price in my head. At first, it seemed like I needed to use calculator. Then I started playing with multiplications on my head.

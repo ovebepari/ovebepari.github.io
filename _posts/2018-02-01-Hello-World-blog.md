@@ -3,6 +3,7 @@ layout: post
 title: Initial Blog Post | Blog Details
 comments: true
 categories: Mumblings
+location: "Dhaka, Bangladesh"
 ---
 
 First of all, greetings. And gratitude to **Github pages** for allowing me to host this blog free of any cost. Cool.
