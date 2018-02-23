@@ -1,5 +1,4 @@
 # Dependencies
-markdown:         redcarpet
 highlighter:      rouge
 
 # Permalinks
@@ -9,7 +8,7 @@ permalink:        /:categories/:slug/
 # Setup
 title:            Ove's Notes
 tagline:          'Notes about this and that and softwares'
-description:      'An INTJ, CSE Undergrad Coder Who Writes Executable Poetry'
+description:      'Ove Bepari, An INTJ, CSE Undergrad Coder Who Usually Writes Executable Poetry'
 url:              https://github.com/ovebepari
 baseurl:          
 
@@ -21,4 +20,6 @@ author:
   url:            https://github.com/ovebepari
 
 paginate:         5
+
+# For a global message in the head
 message:          
