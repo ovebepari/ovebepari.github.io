@@ -13,6 +13,9 @@ description:      'An INTJ, CSE Undergrad Coder Who Writes Executable Poetry'
 url:              https://github.com/ovebepari
 baseurl:          
 
+plugins:
+  - jekyll-seo-tag
+
 author:
   name:           'ovebepari'
   url:            https://github.com/ovebepari
