@@ -15,7 +15,7 @@ In my first day, I fully concentrated on the library and the classmates. The fir
 Now the classmates part. Out of 60, I only knew three, I met them when I was in a coaching center preparing for the admission test. One of them were **Rabbi** (Pictured below) my close friend because we shared a lot of common interest on music and TV series.
 
 
-![Rabbi, the closest one](/post_images/2018/Feb19/rabbi.jpg)
+![Rabbi, the closest one](/post_images/2018/Feb/rabbi.jpg)
 
 
 #### Next quest
