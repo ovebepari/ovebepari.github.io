@@ -30,7 +30,7 @@ Hell yeah, he was being mean. Finally, spotted an asshole in the class. He said 
     3. Why bother learning English anyway, just decrease the use of English words.
 </p>
 
-Whoa, damn, that hurt! But the things he said, made me feel something, I don't know, a bit of feeling you get by winning and a bit of feeling that you get when you get dumped, it was a mixed of that. Yet, I didn't let him know what was going through my mind. I stayed put and pretended as I was being humiliated to gave him more pleasure.
+The first two tips was good. But whoa, the third one, damn, that hurt, made me feel something, I don't know, a bit of feeling you get by winning and a bit of feeling that you get when you get dumped, it was a mixed of that. Yet, I didn't let him know what was going through my mind. I stayed put and pretended as I was being humiliated to give him more pleasure.
 
 But the fun things aside, it got me thinking. I ask for help a lot on the things that I'm not good at. What if I was asking for help from him too. Man, it got me rethink whom to ask help to. 
 
