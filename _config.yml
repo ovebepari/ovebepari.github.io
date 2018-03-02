@@ -9,7 +9,7 @@ permalink:        /:categories/:slug/
 title:            Ove's Notes
 tagline:          'Notes about this and that and softwares'
 description:      'Ove Bepari, An INTJ, CSE Undergrad Coder Who Usually Writes Executable Poetry'
-url:              https://github.com/ovebepari
+url:              https://ovebepari.github.io
 baseurl:          
 
 plugins:
