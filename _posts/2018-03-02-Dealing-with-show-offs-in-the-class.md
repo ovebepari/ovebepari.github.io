@@ -14,7 +14,7 @@ Professor was in the class so I ripped a bit of page from my notebook and wrote,
 
 ![Show off first image](/post_images/2018/Mar/show_off_first.jpg){: .center-image }
 
-I wanted to see how he react to that misspelling. A few moments later, he passed me that back writing, "You've already become unique by misspelling unique". And he corrected my spelling too. 
+I wanted to see how he reacted to that misspelling. A few moments later, he passed me that back writing, "You've already become unique by misspelling unique". And he corrected my spelling too. 
 
 But I couldn't understand if he was being mean or just joking. So I wanted to check that by passing an another message.
 
