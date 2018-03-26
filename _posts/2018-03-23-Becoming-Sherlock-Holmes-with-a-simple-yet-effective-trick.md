@@ -14,6 +14,4 @@ Who doesn't want to be Sherlock the freaking Holmes? Oh dear, I played, pretende
 
 So, if I ask you, "Hey Mr, my mobile data is finished and I need to check a website to see whether that restaurant is open today. Can I have your phone to check that please?" and you become nice and give the phone to me, bang! All I need to do is to visit some random websites and check the ads.
 
-I can know if you or someone you care about have diabetes or AIDs. I can know if you've been planning to travel lately. I can know if you're a med student or an engineering one. I can know which tools you use the most or planning to use. I can know if you're suicidal or not. That's enough information about a stranger without asking about them. Cool huh?
-
-Homework: Know about a thing or two about a random stranger girl and show her your Sherlock skills, make her laugh and maybe arrange a spot date even xD.
+I can know if you or someone you care about have diabetes or AIDs. I can know if you've been planning to travel lately. I can know if you're a med student or an engineering one. I can know which tools you use the most or planning to use. I can know if you're suicidal or not. That's enough information about a stranger without asking about them. Cool.
