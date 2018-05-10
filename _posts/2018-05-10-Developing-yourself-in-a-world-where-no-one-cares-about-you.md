@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Developing yourself in a world where no one cares about you
+title: Developing Yourself in a World Where No One Cares About You
 comments: true
 categories: Personal
 location: Dhaka, Bangladesh
 ---
 
-blah lblah
+[The article is being written...]
