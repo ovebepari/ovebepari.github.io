@@ -6,7 +6,7 @@ categories: Personal
 location: Dhaka, Bangladesh
 ---
 
-This post might seem useful but I've been researching a lot about CS lately and instead of bookmarking and finding the course links from the browser, I thought an article containing all the links would be good which I can share with my friends later. 
+This post might not seem useful but I've been researching a lot about CS lately and instead of bookmarking and finding the course links from the browser, I thought an article containing all the links would be good which I can share with my friends later. 
 
 * [David Jerison. 18.01SC Single Variable Calculus. Fall 2010.](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 * [Denis Auroux. 18.02SC Multivariable Calculus. Fall 2010.](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
