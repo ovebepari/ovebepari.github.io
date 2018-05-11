@@ -12,6 +12,8 @@ This post might not seem useful but I've been researching a lot about CS lately 
 * [Denis Auroux. 18.02SC Multivariable Calculus. Fall 2010.](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 * [Albert Meyer, and Adam Chlipala. 6.042J Mathematics for Computer Science. Spring 2015.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) &#x25B6; 
 * [Erik Demaine, and Srinivas Devadas. 6.006 Introduction to Algorithms. Fall 2011.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+* [Erik Demaine, Srini Devadas, and Nancy Lynch. 6.046J Design and Analysis of Algorithms.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
+* [Michel Goemans. 6.854J Advanced Algorithms. Fall 2008](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
 * [Gilbert Strang. 18.06 Linear Algebra. Spring 2010.](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 * [Jeremy Orloff, and Jonathan Bloom. 18.05 Introduction to Probability and Statistics. Spring 2014.](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 * [Patrick Winston. 6.034 Artificial Intelligence. Fall 2010.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
