@@ -6,7 +6,7 @@ categories: Personal
 location: Dhaka, Bangladesh
 ---
 
-You're not the center of the universe, the world doesn't revolve around you. Let ourselves be fed some examples.
+You're not the center of the universe, the world doesn't revolve around you. No one cares what shirt you're wearing, or if you've bought the best shoes you could afford. Let ourselves be fed some examples.
 
 You hear a lot of things on the news. A random guy died in a car accident today. How did that make you feel? Maybe a bit of sympathy and a bit of curiosity about the guy, nothing more. You forget about it two minutes later. We all do. We're designed this way. The same logic applies, if you die today, not much happens to the universe and to people around you except a few of those who cares about you.
 
