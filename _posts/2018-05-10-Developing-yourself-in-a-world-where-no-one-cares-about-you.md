@@ -6,15 +6,15 @@ categories: Personal
 location: Dhaka, Bangladesh
 ---
 
-You're not the center of the universe, the world doesn't revolve around you. No one cares what shirt you're wearing, or if you've bought the best shoes you could afford. Let ourselves be fed some examples.
+You're not the center of the universe, the world doesn't revolve around you. No one cares what shirt you're wearing or if you've bought the best shoes you could afford. Let ourselves be fed some examples.
 
 You hear a lot of things on the news. A random guy died in a car accident today. How did that make you feel? Maybe a bit of sympathy and a bit of curiosity about the guy, nothing more. You forget about it two minutes later. We all do. We're designed this way. The same logic applies, if you die today, not much happens to the universe and to people around you except a few of those who cares about you.
 
-So, what's the point of all of these? life, study, education, love, emotions? It ends anyway. Maybe instead of caring what will happen, thinking about present and caring what we do, experiences we're making right now is worth the attention. That's what makes us happy, isn't it?
+So, what's the point of all of these? Life, study, education, love, emotions? It ends anyway. Maybe instead of caring what will happen, thinking about the present and caring what we're doing, experiences we're making right now is worth the attention. That's what makes us happy, isn't it?
 
 So, to have a kind of fulfill life in the present, we need to develop ourselves a bit, to get along with this cruel world.
 
-* <b>Learn to be tough when you need to.</b> No one listens to you if you don't know how to tough at the appropriate time. You can't be a good leader, you can't stand for your yourself and friends when you need to.
+* <b>Learn to be tough when you need to.</b> No one listens to you if you don't know how to be tough at the appropriate time. You can't be a good leader, you can't stand for your yourself and friends when you need to.
 
 * <b>Go to the gym, strong body matters.</b> If you're a man, being tough without a good physique might not come in handy. A few unfair advantages you can have with a good physique: 
 	
