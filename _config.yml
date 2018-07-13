@@ -10,7 +10,7 @@ title:            Ove's Notes
 tagline:          'Notes about this and that and softwares'
 description:      'Ove Bepari, An INTJ, CSE Undergrad Coder Who Usually Writes Executable Poetry'
 url:              https://ovebepari.github.io
-baseurl:          
+baseurl:          ''          
 
 plugins:
   - jekyll-seo-tag
