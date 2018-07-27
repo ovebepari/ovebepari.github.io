@@ -17,9 +17,9 @@ Speaking of basic questions, I started asking how does Linux work and stepped in
 * How to make backward-compatible codes which I feel is pretty important.
 * How to maintain open-source projects, by starting one on GitHub, thus learning C++.
 * How to make an existing Open Source Software more efficient by the DS and Algs I know.
-* Expect to think like Linux Torvalds, Ken Thompson, Danis Ritchie at the end.
+* Expect to think a bit like Linux Torvalds, Ken Thompson, Dennis Ritchie at the end.
 
 ### Goals:
 * To make a distribution for my University which will concentrate on simplicity to use, real-time notification system from Uni's website(which is the easiest task of them all) and a few more things.
 
-For now, I feel like I need to spend a bit more time on DS and Algs and need to be natural on it by practicing on coding contest platforms. I do recommend myself and the reader to stay on track. 
+For now, I feel like I need to spend a bit more time on DS and Algs and need to be natural on it by practicing on coding contest platforms. I do recommend myself and the reader to stay on track.
