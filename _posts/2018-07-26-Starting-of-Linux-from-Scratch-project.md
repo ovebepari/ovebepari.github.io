@@ -6,11 +6,11 @@ categories: Linux
 location: Dhaka, Bangladesh
 ---
 
-I fell in love with Linux the 366th day I installed it on my system. It took a year because of the learning curve that seemed a bit steep for me and coming from Windows and a Graphic Design hyped month that I was having at that moment. But being a full time web-developer, I couldn't go back to Windows ever again, I felt the need to stay. I love the existence of the idea of GNU and Linux.
+I fell in love with GNU/Linux the 366th day I installed it on my system. It took a year because of the learning curve that seemed a bit steep for me and coming from Windows and a Graphic Design hyped month that I was having at that moment. But being a full time web-developer, I couldn't go back to Windows ever again, I felt the need to stay. I love the existence of the idea of GNU and Linux.
 
-So many things had changed since. I migrated to Python from PHP, stopped Graphic Designing totally, fell in love with a few scripting languages, started participating on programming contests on various platforms, learned to ask too basic questions which are hard to answer in detail(How does javascript handles playing audio in the browser?).
+So many things had changed since. I migrated to Python from PHP, stopped Graphic Designing totally, fell in love with a few scripting languages (Bash and Python mostly), started participating on programming contests on various platforms, learned to ask too basic questions which are hard to answer in detail(How does javascript handles playing audio in the browser?).
 
-Speaking of basic questions, I started asking how does Linux work and stepped into a project called "Linux from Scratch" which helps devs(script junkies?) to make their own distro from the Linux Kernel. So far, it's been good. Loving it. It always feel good to be the person in charge of the tools that we use everyday.
+Speaking of basic questions, I started asking how does Linux kernel and GNU/Linux work and stepped into a project called "Linux from Scratch" which helps devs (Script junkies?) to make their own distro from the Linux Kernel. So far, it's been good. Loving it. It always feel good to be the person in charge of the tools that we use everyday.
 
 ### Expectations:
 * I do expect to have the knowledge of how an OS really work.
