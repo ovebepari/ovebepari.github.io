@@ -428,3 +428,9 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+
+/* Quora-answer */
+.quora-answer{
+  margin: 1.5em 0;
+}
