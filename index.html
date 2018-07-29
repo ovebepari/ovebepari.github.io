@@ -17,6 +17,11 @@ title: Home
   {% endif%}
 </div>
 
+    <span class="tags">
+    <i class="fa fa-tags"></i>
+    <a href="archive">List of all posts</a>
+    </span>
+
 <div class="category">
   {% comment %} For categories {% endcomment %}
   {% if site.categories %}
@@ -29,14 +34,13 @@ title: Home
         </span>
       {% endfor %}
 
-    <span class="tags">
-    <i class="fa fa-tags"></i>
-    <a href="archive">List of all posts</a>
-    </span>
   {% endif %}
 </div>
 
-<!-- 
+<!--
+ 
+If paginator is used, permalink isn't allowed. So, pagination is left to rot. 
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -51,7 +55,6 @@ title: Home
     {{ post.content }}
   </div>
   {% endfor %}
-</div> -->
 
 <div class="pagination">
   {% if paginator.next_page %}
@@ -70,3 +73,4 @@ title: Home
   {% endif %}
 </div>
 
+</div> -->
