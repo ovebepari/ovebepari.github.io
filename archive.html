@@ -23,7 +23,7 @@ title: Post Archive
         <ul class="posts-by-year {{ post.date | date: '%Y' }}">
     {% endif %}
     {% endif %}
-    <li itemscope itemtype="http://schema.org/BlogPosting" class="post-title">
+	<li itemscope itemtype="http://schema.org/BlogPosting"> 
         <time datetime="{{ post.date | date_to_xmlschema }}" class="hide-on-mobile">
             <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}" />
             {{ post.date | date: '%d %b' }}
