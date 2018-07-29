@@ -15,6 +15,7 @@ baseurl:          ''
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-paginate
 
 author:
   name:           'ovebepari'
