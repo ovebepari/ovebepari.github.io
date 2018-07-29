@@ -37,3 +37,18 @@ title: Post Archive
     {% endif %}
     {% endfor %}
 </ul>
+
+<div class="category">
+  {% comment %} For categories {% endcomment %}
+  {% if site.categories %}
+  <h2>OR Read by Categories</h2>
+      {% for category in site.categories %}
+        {% capture category_name %}{{ category | first }}{% endcapture %}
+        <span class="tags">
+          <i class="fa fa-tags"></i>
+          <a href="{{site.baseurl}}/categories/#{{category_name|slugize}}">{{category_name}}</a>
+        </span>
+      {% endfor %}
+
+  {% endif %}
+</div>

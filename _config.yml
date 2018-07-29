@@ -15,13 +15,11 @@ baseurl:          ''
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-paginate
 
 author:
   name:           'ovebepari'
   url:            https://github.com/ovebepari
 
-paginate:         5
 
 # For a global message in the head
-message:          
+message:

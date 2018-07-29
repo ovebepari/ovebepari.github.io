@@ -271,6 +271,25 @@ a.sidebar-nav-item:focus {
 .tags a{
     color: rgba(0,0,0,.6);
 }
+.all-posts{
+    margin-top: 2em;
+    display: block;
+    line-height: 1;
+    vertical-align: baseline;
+    margin: 4 0em;
+    background-color: #e8e8e8;
+    background-image: none;
+    padding: .5833em .833em;
+    text-transform: none;
+    font-weight: 700;
+    border: 0 solid transparent;
+    border-radius: .18571429rem;
+    -webkit-transition: background .1s ease;
+    transition: background .1s ease;
+    /*margin: 0.5833em;*/
+    color: rgba(0,0,0,0.6);
+    text-align: center;
+}
 .blogdate{
     font-size: .75714286rem;
     margin: 0;
@@ -280,7 +299,7 @@ a.sidebar-nav-item:focus {
   margin-bottom: 0;
 }
 div.category{
-  margin-top: 4em;
+  margin-top: 2em;
 }
 
 .social-links{
