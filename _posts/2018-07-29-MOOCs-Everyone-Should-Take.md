@@ -11,3 +11,4 @@ Before internet, we needed to read a lot of books. We still do but my philosophy
 ## Personal Development:
 
 - <a href="https://coursera.org/learn/learning-how-to-learn?siteID=SAyYsTvLiGQ-Gv9FPHjsCEY3VDhRtDFuJg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ" target="_blank">Learning How to Learn [Coursera]</a>
+- <a href="https://www.futurelearn.com/courses/complexity-and-uncertainty" target="_blank">Decision Making in a Complex and Uncertain World</a>
