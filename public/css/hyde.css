@@ -294,6 +294,10 @@ a.sidebar-nav-item:focus {
     font-size: .75714286rem;
     margin: 0;
     /*margin-left: 1em;*/
+    color: white;
+    background: #465158;
+    padding: 5px;
+    border-radius: 5px;
 }
 .recent_post_title{
   margin-bottom: 0;
