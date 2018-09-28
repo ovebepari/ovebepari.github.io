@@ -13,24 +13,22 @@ title: Home
           {{ post.date | date: "%d %B %Y" }}
         </span>
 
+    {% if post %}
+      {% assign categories = post.categories %}
+    {% else %}
+      {% assign categories = page.categories %}
+    {% endif %}
+  
+    {% if categories %}
+      {% for category in categories %}
         <span>&nbsp;</span>
-
         <span class="blogdate">
-
-          {% if post %}
-            {% assign categories = post.categories %}
-          {% else %}
-            {% assign categories = page.categories %}
-          {% endif %}
-        
-          {% if categories %}
             <i class="fa fa-tags"></i>
-            {% for category in categories %}
             <a style="color:white;" href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category }}</a>
-            {% endfor %}
-          {%endif%}
-
         </span>
+      {% endfor %}
+    {%endif%}
+
 
 
         <div>{{ post.content |truncatehtml | truncatewords: 20 }}</div>
