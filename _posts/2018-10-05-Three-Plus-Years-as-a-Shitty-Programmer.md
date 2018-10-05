@@ -29,4 +29,14 @@ Where should I begin. Coding till 4 AM one day and sleeping the rest of the day 
 ### I was too Caught up in the Hype of New Stuffs:
 I must say it turned out somewhat beneficial but in the long run, lost some precious hours. I started doing Machine Learning at some point and realized later that I was not the person who just uses TensorFlow but doesn't know how it works behind the scenes. I'd rather learn Mathematics now and concentrate on `C`, `ASSEMBLY` and when I need to maybe will do a bit of ML/AI stuff for personal use but that's for another day.
 
+### And a few more
+* Programming languages were just tools, didn't believe that.
+* Avoided programming meetups and Get-togethers.
+* Didn't hangout much with people smarter than me (Reversed the sentence just to appear as a nice guy).
+* Wrote a lot of code but didn't read enough.
+* Used to go wide but not deeper (which was a bit good for initial stage to choose a focus point)
+* What were unit tests back then?
+* Used to write clever but not readable code.
+* Didn't care about sales, marketing, design etc.
+
 So, takeaway: First be a shitty programmer. Then don't be shitty programmer. Then be a System Programmer. And don't forget reading [Joel on Software [Link] ](https://www.joelonsoftware.com) everyday!
