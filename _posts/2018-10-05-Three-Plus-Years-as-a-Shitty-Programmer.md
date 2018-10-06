@@ -32,7 +32,7 @@ I must say it turned out somewhat beneficial but in the long run, lost some prec
 ### And a few more
 * Programming languages were just tools, didn't believe that.
 * Avoided programming meetups and Get-togethers.
-* Didn't hangout much with people smarter than me (Reversed the sentence just to appear as a nice guy).
+* Didn't hangout much with people smarter than me (Reversed the sentence just to appear nice).
 * Wrote a lot of code but didn't read enough.
 * Used to go wide but not deeper (which was a bit good for initial stage to choose a focus point)
 * What were unit tests back then?
