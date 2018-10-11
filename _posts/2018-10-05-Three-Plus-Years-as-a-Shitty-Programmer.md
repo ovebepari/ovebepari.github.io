@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Three Plus Years as a Shitty Programmer
-comments: true
+title: Three Plus Years as a Shitty Programmer, Confessions and Suggestions
+comments: false
 categories: Personal
 location: Dhaka, Bangladesh
 ---
@@ -9,11 +9,9 @@ location: Dhaka, Bangladesh
 Every new day starts with a feeling like, well, I was a shitty programmer yesterday. It is a good thing, maybe it means I'm growing. So things I used to do on a regular basis that made me a shitty programmer are:
 
 ### Used to Memorize Documentations:
-Learning `Assembly Programming Language` or understanding how the computer works in a bit level ( [Bottom Up CS ](https://www.bottomupcs.com/) ) is more important than spending time memorizing documentations of a certain thing. Just look up the doc and code. Save time. Do art and love. Get a life outside of the Matrix.
-
+Learning `Assembly Programming Language` or understanding how the computer works in a bit level <a href="https://www.bottomupcs.com/" target="_blank">(Bottom Up Cs)</a> is more important than spending time memorizing documentations of a certain thing.
 
 ### Didn't Pay Much Attention to Error Messages:
-
 The initial days of me learning `C` and my attempt to be a native in a GNU/Linux distro didn't turn out well. Until I realized how much I ignored terminal error messages.
 
 ![pydoc Error](/post_images/2018/Oct/pydoc_error.png){:.center-image}
@@ -39,4 +37,4 @@ I must say it turned out somewhat beneficial but in the long run, lost some prec
 * Used to write clever but not readable code.
 * Didn't care about sales, marketing, design etc.
 
-So, takeaway: First be a shitty programmer. Then don't be shitty programmer. Then be a System Programmer. And don't forget reading [Joel on Software](https://www.joelonsoftware.com) everyday!
+So, takeaway: First be a shitty programmer. Then don't be shitty programmer. And don't forget reading <a href="https://www.joelonsoftware.com" target="_blank">Joel on Software</a> everyday!

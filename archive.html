@@ -11,7 +11,7 @@ title: Post Archive
     {% endif %}
 
     {% if forloop.first %}
-        <h2 class="title">{{ post.date | date: '%Y' }}:</h2>
+        <h2 class="title">{{ post.date | date: '%Y' }}</h2>
     {% else %}
     {% if year != nyear %}
       <h2 class="title">{{ post.date | date: '%Y' }}</h2>

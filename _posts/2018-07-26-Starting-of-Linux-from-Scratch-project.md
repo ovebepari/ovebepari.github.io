@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Starting of Linux from Scratch Project, Expectations and Goals 
-comments: true
+comments: false
 categories: Linux
 location: Dhaka, Bangladesh
 ---

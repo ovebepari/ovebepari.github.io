@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Non-Academic MOOCs Everyone Should Take, My Watchlist
-comments: true
+comments: false
 categories: Personal
 location: Dhaka, Bangladesh
 ---
