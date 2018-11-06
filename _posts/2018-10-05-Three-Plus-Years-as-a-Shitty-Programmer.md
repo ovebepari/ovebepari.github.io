@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three Plus Years as a Shitty Programmer, Confessions and Suggestions
-comments: false
+comments: true
 categories: Personal
 location: Dhaka, Bangladesh
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I Migrated from PHP to Python for Back-end Web Development and Why You Should Too
-comments: false
+comments: true
 categories: Python
 location: Dhaka, Bangladesh
 ---

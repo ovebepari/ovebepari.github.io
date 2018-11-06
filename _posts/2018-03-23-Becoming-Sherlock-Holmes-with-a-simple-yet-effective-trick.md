@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Becoming Sherlock Holmes, Knowing Almost Thirty Percent of Personal Information about Someone without Asking
-comments: false
+comments: true
 categories: Personal
 location: Dhaka, Bangladesh
 ---

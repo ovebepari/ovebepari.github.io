@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Thought on Philosophy of Education and Programming
-comments: false
+comments: true
 categories: Personal
 location: Dhaka, Bangladesh
 ---

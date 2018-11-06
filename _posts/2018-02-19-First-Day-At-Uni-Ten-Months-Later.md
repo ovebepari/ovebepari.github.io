@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Day at University, Should Have Been Ten Months Earlier
-comments: false
+comments: true
 categories: Personal
 location: Dhaka, Bangladesh
 ---

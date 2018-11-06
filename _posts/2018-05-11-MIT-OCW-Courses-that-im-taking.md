@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MIT OCW Courses That I'm Taking / Planning to Take
-comments: false
+comments: true
 categories: Personal
 location: Dhaka, Bangladesh
 ---
