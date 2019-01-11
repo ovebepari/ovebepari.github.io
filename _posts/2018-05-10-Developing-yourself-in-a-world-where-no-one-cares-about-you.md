@@ -23,7 +23,7 @@ So, to have a kind of fulfill life in the present, we need to develop ourselves 
 	3. Impress people you would never get to know which might doesn't matter to you but spreads positive vibration in the air.
 	4. You stay confident, life's goooood (a few more o's for emphasizing purposes).
 	5. Care less about bullsh*t, negativity can't get to you.
-
+	
 * <b>Keep the promise you make to yourself.</b> This might not seem much of a big deal but trust me, this is the most important reason why most of the students and entrepreneurs end up being unsuccessful. If you promise to yourself that you'll finish the homework tonight but procrastinate instead, you'll be depressed and within a few days, you'll have hard time being happy. Please don't break the promises you make to yourself (urge to the reader and to me, telling my future self because I might need to get back to this article in the future for my own good.)
 
 * <b>Eat healthy.</b> You're what you eat. You're what you poop.
