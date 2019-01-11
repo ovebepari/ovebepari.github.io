@@ -6,7 +6,7 @@ categories: Personal
 location: Dhaka, Bangladesh
 ---
 
-Not much of a great post but I've decided that I'll stop sharing good stuff on social media and share a blog stating my sources of what I get my news/knowledge from instead. Interested people will sneak their way through good things.
+Not much of a great post but I've decided that I'll stop sharing good stuff on social media and share a blog stating my sources of where I get my news/knowledge from instead. Interested people will sneak their way through good things.
 
 ## Too Frequent, about Software Mostly:
 
