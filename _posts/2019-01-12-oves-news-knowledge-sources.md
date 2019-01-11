@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Non-Academic MOOCs Everyone Should Take, My Watchlist
+title: My News and Knowledge Sources
 comments: true
 categories: Personal
 location: Dhaka, Bangladesh
