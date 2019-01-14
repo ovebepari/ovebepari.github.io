@@ -14,7 +14,8 @@ Not much of a great post but I've decided that I'll stop sharing good stuff on s
 - [Tech Republic](https://www.techrepublic.com/)
 - [Techcrunch](https://techcrunch.com/)
 - [Mozilla Pocket](https://getpocket.com/explore/)
-- [Joel on Software](https://getpocket.com/explore/)
+- [Joel on Software](https://www.joelonsoftware.com/)
+- [The Register](https://www.theregister.co.uk/)
 - [Reddit](http://reddit.com/)
 - [Quora](http://quora.com/)
 - Random Personal Blogs
