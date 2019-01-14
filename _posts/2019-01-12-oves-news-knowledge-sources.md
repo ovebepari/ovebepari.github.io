@@ -33,7 +33,7 @@ Not much of a great post but I've decided that I'll stop sharing good stuff on s
 ## Newsletters:
 
 - [MIT Tech Review](https://go.technologyreview.com/newsletters)
-- Stanford Report
+- [Stanford Report](https://news.stanford.edu/stanford-report/)
 - [Medium Daily Digest](https://medium.com/@ExtendedDigest)
 - [Quora Digest](https://www.quora.com/topic/Quora-Digest)
 - [Bill Gates (via the Gates Notes)](https://www.gatesnotes.com/)
