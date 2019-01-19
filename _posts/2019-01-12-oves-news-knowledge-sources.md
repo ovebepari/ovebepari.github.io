@@ -28,7 +28,7 @@ Not much of a great post but I've decided that I'll stop sharing good stuff on s
 - [Medium](https://medium.com/)
 - Twitter  [Follow Quality People]
 - Facebook [Follow Quality People]
-
+- [Youth Opportunities](https://www.youthop.com/)
 
 ## Newsletters:
 
