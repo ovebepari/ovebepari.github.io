@@ -37,10 +37,11 @@ Not much of a great post but I've decided that I'll stop sharing good stuff on s
 
 ## Newsletters:
 
+- [The Download from MIT](https://www.technologyreview.com/the-download/)
 - [MIT Tech Review](https://go.technologyreview.com/newsletters)
 - [Stanford Report](https://news.stanford.edu/stanford-report/)
 - [Medium Daily Digest](https://medium.com/@ExtendedDigest)
-- [Quora Digest](https://www.quora.com/topic/Quora-Digest)
+- [Quora Digest](https://www.quora.com/settings/notifications)
 - [Bill Gates (via the Gates Notes)](https://www.gatesnotes.com/)
 
 Shortlisted sources, these are.
