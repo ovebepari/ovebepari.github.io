@@ -6,6 +6,10 @@ categories: Personal
 location: Dhaka, Bangladesh
 ---
 
+
+![News](https://news.nationalgeographic.com/content/dam/news/photos/000/786/78619.ngsversion.1469638820619.adapt.1900.1.jpg){:.center-image}
+<center> <small>Image Taken from National Geographic</small> </center> <br>
+
 Not much of a great post but I've decided that I'll stop sharing good stuff on social media and share a blog stating my sources of where I get my news/knowledge from instead. Interested people will sneak their way through good things.
 
 ## Too Frequent, about Software Mostly:
