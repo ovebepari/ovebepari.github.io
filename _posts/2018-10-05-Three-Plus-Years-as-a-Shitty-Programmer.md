@@ -8,6 +8,9 @@ location: Dhaka, Bangladesh
 
 Every new day starts with a feeling like, well, I was a shitty programmer yesterday. It is a good thing, maybe it means I'm growing. So things I used to do on a regular basis that made me a shitty programmer are:
 
+![Ancient regret](https://i.pinimg.com/originals/6f/69/08/6f69083af0815a0e467c6ff503efd735.jpg){:.center-image}
+<center> <small>Image Taken from Pinterest</small> </center> <br>
+
 ### Used to Memorize Documentations:
 Learning `Assembly Programming Language` or understanding how the computer works in a bit level <a href="https://www.bottomupcs.com/" target="_blank">(Bottom Up Cs)</a> is more important than spending time memorizing documentations of a certain thing.
 
