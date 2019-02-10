@@ -25,6 +25,7 @@ Not much of a great post but I've decided that I'll stop sharing good stuff on s
 
 ## Not Frequent:
 
+- [Google Careers](https://careers.google.com/)
 - [Medium](https://medium.com/)
 - Twitter  [Follow Quality People]
 - Facebook [Follow Quality People]
@@ -37,3 +38,5 @@ Not much of a great post but I've decided that I'll stop sharing good stuff on s
 - [Medium Daily Digest](https://medium.com/@ExtendedDigest)
 - [Quora Digest](https://www.quora.com/topic/Quora-Digest)
 - [Bill Gates (via the Gates Notes)](https://www.gatesnotes.com/)
+
+Shortlisted sources, these are.
