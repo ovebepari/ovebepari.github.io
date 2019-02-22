@@ -2,7 +2,9 @@
 layout: default
 title: Home
 ---
-<h2>Pick a Category</h2>
+
+<small><span style="font-size:2em; font-weight:600">Pick a Category</span> <a href="/archive/"><sub>or read the archive sorted by date.</sub></a></small>
+
 {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="{{ category_name | slugize }}">
