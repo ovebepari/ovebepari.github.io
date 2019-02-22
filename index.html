@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Categories
+layout: default
+title: Home
 ---
-
+<h2>Pick a Category</h2>
 {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="{{ category_name | slugize }}">
