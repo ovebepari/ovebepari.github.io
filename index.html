@@ -1,94 +1,16 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Categories
 ---
 
-<div class="whatsnew">
-  {% if site.posts %}
-  <h1>What's new?</h1>
-    {% for post in site.posts limit:15 %}
-        <h3 class="recent_post_title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <span class="blogdate">
-          <i class="fa fa-calendar"></i>
-          {{ post.date | date: "%d %B %Y" }}
-        </span>
-
-    {% if post %}
-      {% assign categories = post.categories %}
-    {% else %}
-      {% assign categories = page.categories %}
-    {% endif %}
-  
-    {% if categories %}
-      {% for category in categories %}
-        <span>&nbsp;</span>
-        <span class="blogdate">
-            <i class="fa fa-tags"></i>
-            <a style="color:white;" href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category }}</a>
-        </span>
+{% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="{{ category_name | slugize }}">
+    <h3 class="category-head">{{ category_name }}</h3>
+    <ul>
+      {% for post in site.categories[category_name] %}
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
       {% endfor %}
-    {%endif%}
-
-
-
-        <div>{{ post.content |truncatehtml | truncatewords: 20 }}</div>
-    {% endfor %}
-  {% endif%}
-</div>
-
-<center>
-  <a href="archive" class="all-posts">List of all posts</a>
-</center>
-
-<div class="category">
-  {% comment %} For categories {% endcomment %}
-  {% if site.categories %}
-  <h2>Read by Categories</h2>
-      {% for category in site.categories %}
-        {% capture category_name %}{{ category | first }}{% endcapture %}
-        <span class="tags">
-          <i class="fa fa-tags"></i>
-          <a href="{{site.baseurl}}/categories/#{{category_name|slugize}}">{{category_name}}</a>
-        </span>
-      {% endfor %}
-
-  {% endif %}
-</div>
-
-<!--
- 
-If paginator is used, permalink isn't allowed. So, pagination is left to rot. 
-
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
-
-</div> -->
+    </div>
+    </ul>
+{% endfor %}
