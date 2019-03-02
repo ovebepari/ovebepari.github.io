@@ -15,6 +15,7 @@ Not much of a great post but I've decided that I'll stop sharing good stuff on s
 ## Too Frequent, about Software Mostly:
 
 - [Hacker News](http://news.ycombinator.com/)
+- [Hessix - Hacker News for Mathematics](https://www.hessix.com/)
 - [Tech Republic](https://www.techrepublic.com/)
 - [Techcrunch](https://techcrunch.com/)
 - [Mozilla Pocket](https://getpocket.com/explore/)
