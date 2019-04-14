@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best Way to Understand It to Write a Book about It - File Systems 
+title: The Best Way to Understand It is to Write a Book about It - File Systems 
 comments: true
 categories: Linux|Systems
 location: Dhaka, Bangladesh
