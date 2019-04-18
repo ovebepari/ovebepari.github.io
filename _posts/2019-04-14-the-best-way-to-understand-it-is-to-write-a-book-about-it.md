@@ -6,7 +6,7 @@ categories: Linux|Systems
 location: Dhaka, Bangladesh
 ---
 
-Whenever something appears confusing, I interpret it as I'm about to learn this "thing", thus its kinda making sense and kinda not. Then I thought, well I know a few verses of a poem, maybe not a poem:
+Whenever something appears confusing, I interpret it as I'm about to learn this "thing", thus its kinda making sense and kinda not. Well I know a few verses of a poem, maybe not a poem:
 
 > Shall I tell you my friend, how you will come to understand it?
 > Go and write a book upon it.
