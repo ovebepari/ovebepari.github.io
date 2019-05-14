@@ -12,7 +12,7 @@ I hate Abstraction levels but sigh, Computer Science is full of it. Every new Fu
 
 {PyTorch, TensorFlow, NumPy}, these tools are Abstraction heavy, it abstracts the math/algo out, good thing. People who know what math/algo they are dealing with, should be okay with it.
 
-But at the end of the day, what am I producing? Just some stats. I don't care how many people smokes, I don't care how many people are not satisfied with their job, I don't care about these stats at all. But these are somewhat important stats and I'm glad there are people who are willing to pursue Data Science. 
+But at the end of the day, what am I producing? I don't care (but there are people who do) how many people smokes, I don't care how many people are not satisfied with their job, I don't care about these stats at all. But Data Science can be import at times, weather data to predict environmental crisis, world temperature data to to raise awareness, these are important stats and I'm glad there are people who are willing to pursue Data Science. I felt somethink was missing in me while tinker with it.
 
 I care about core CS/FOCS and Systems Programming is where I can understand (somewhat) what I'm dealing with, with as less abstraction levels as possible. 
 
