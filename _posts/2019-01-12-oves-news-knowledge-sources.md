@@ -15,25 +15,25 @@ Not much of a great post but I've decided that I'll stop sharing good stuff on s
 ## Too Frequent, about Software Mostly:
 
 - [Hacker News](http://news.ycombinator.com/)
-- [Linux Journal](https://www.linuxjournal.com/)
-- [Tech Republic](https://www.techrepublic.com/)
-- [Techcrunch](https://techcrunch.com/)
-- [Mozilla Pocket](https://getpocket.com/explore/)
+- Twitter  [Follow Quality People]
+- Facebook [Follow Quality People]
+- [Software Engineering Daily](https://softwareengineeringdaily.com/)
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [The Register](https://www.theregister.co.uk/)
 - [Reddit](http://reddit.com/)
 - [Quora](http://quora.com/)
-- Random Personal Blogs
+- Random Personal Blogs [Such as Julia Evans's blog](https://jvns.ca)
 - [Github Explore](https://github.com/explore)
 - [The guardian](https://www.theguardian.com/international)
-
+- [Linux Journal](https://www.linuxjournal.com/)
+- [Tech Republic](https://www.techrepublic.com/)
+- [Techcrunch](https://techcrunch.com/)
 
 ## Not Frequent:
 
+- [Mozilla Pocket](https://getpocket.com/explore/)
 - [Google Careers - Students](https://careers.google.com/students)
 - [Medium](https://medium.com/)
-- Twitter  [Follow Quality People]
-- Facebook [Follow Quality People]
 - [Youth Opportunities](https://www.youthop.com/)
 
 ## Newsletters:
