@@ -45,4 +45,12 @@ Not much of a great post but I've decided that I'll stop sharing good stuff on s
 - [Quora Digest](https://www.quora.com/settings/notifications)
 - [Bill Gates (via the Gates Notes)](https://www.gatesnotes.com/)
 
+## Individual Blogs: 
+
+- [Julia Evans's Blog - (How This-That-Computer Work)](https://jvns.ca/)
+- [Kenneth Reitz's Blog - (Python-Photography)](https://www.kennethreitz.org/)
+- Codeforces Blogs
+- [Chris Wellons's Blog - (Computer {Science, Graphics})](http://nullprogram.com/index/)
+
+
 Shortlisted sources, these are.
