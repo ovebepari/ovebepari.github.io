@@ -28,6 +28,7 @@ Not much of a great post but I've decided that I'll stop sharing good stuff on s
 - [Linux Journal](https://www.linuxjournal.com/)
 - [Tech Republic](https://www.techrepublic.com/)
 - [Techcrunch](https://techcrunch.com/)
+- [Danluu](https://danluu.com/)
 
 ## Not Frequent:
 
