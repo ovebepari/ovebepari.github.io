@@ -25,4 +25,4 @@ author:
 # For a global message in the head
 message: 
 
-exclude: ["Networking_Comics/"]
+exclude: []
