@@ -3,7 +3,7 @@ layout: post
 title: Texting with a Random Stranger Through Notes App, Looking for Rejections on the Street, Part one
 comments: true
 categories: Personal
-location: Dhaka, Bangladesh
+location: DUET, Bangladesh
 ---
 
 

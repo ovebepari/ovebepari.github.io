@@ -3,7 +3,7 @@ layout: post
 title: First Day at University, Should Have Been Ten Months Earlier
 comments: true
 categories: Personal
-location: Dhaka, Bangladesh
+location: DUET, Bangladesh
 ---
 
 After completing Diploma in Engineering, we had two options. Either prepare for the university admission or seek jobs around. Initially I was in dilemmas. I needed a job yet I wanted to be in a public university which usually takes a bit of extra preparation and hard work.

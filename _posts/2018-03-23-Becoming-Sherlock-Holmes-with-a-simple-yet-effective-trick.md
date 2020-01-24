@@ -3,7 +3,7 @@ layout: post
 title: Becoming Sherlock Holmes, Knowing Almost Thirty Percent of Personal Information about Someone without Asking
 comments: true
 categories: Personal
-location: Dhaka, Bangladesh
+location: DUET, Bangladesh
 ---
 
 Who doesn't want to be Sherlock the freaking Holmes? Oh dear, I played, pretended so much of being him, sometimes my coincidental correct deductions made me feel high.

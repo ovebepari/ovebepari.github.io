@@ -3,7 +3,7 @@ layout: post
 title: Starting of Linux from Scratch Project, Expectations and Goals 
 comments: true
 categories: Linux|Systems
-location: Dhaka, Bangladesh
+location: DUET, Bangladesh
 ---
 
 I fell in love with GNU/Linux the 366th day I installed it on my system. It took a year because of the learning curve that seemed a bit steep for me and coming from Windows and a Graphic Design hyped month that I was having at that moment. But being a full time web-developer, I couldn't go back to Windows ever again, I felt the need to stay. I love the existence of the idea of GNU and Linux.

@@ -3,7 +3,7 @@ layout: post
 title: A Thought on Philosophy of Education and Programming
 comments: true
 categories: Personal
-location: Dhaka, Bangladesh
+location: DUET, Bangladesh
 ---
 
 Being expert in a field takes time these days. There was a time when people could contribute to Science, Philosophy, Mathematics, Religion, Psychology and yet live a few decades more but we live in an era when the tree of knowledge has broader branches. It takes time to ride on one branch and to find the end of it. It is really hard to contribute to several branches of knowledge now because we don't live that much. This idea has made people think.

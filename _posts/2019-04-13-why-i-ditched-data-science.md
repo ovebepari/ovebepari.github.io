@@ -3,7 +3,7 @@ layout: post
 title: Ditching Data Science for Systems Programming 
 comments: true
 categories: Linux|Systems
-location: Dhaka, Bangladesh
+location: DUET, Bangladesh
 ---
 
 I'd been utterly curious about things. This curiosity of mine had led me to many good and bad things. The bad things weren't completely bad, it was just time consuming at times, that's all. And not surprisingly, I've been tinkering with **Data Science** at times too.

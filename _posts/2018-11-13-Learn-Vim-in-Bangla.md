@@ -3,7 +3,7 @@ layout: post
 title: এক ছুটির দিনে Vim শিখুন
 comments: true
 categories: Bangla
-location: Dhaka, Bangladesh
+location: DUET, Bangladesh
 ---
 
 প্রায় ৩০ বছর আগের একটা টেক্সট এডিটর, এখনো অনেক মানুষের প্রথম পছন্দ Vim এডিটরটি। এর একটি বিশেষত্ব হচ্ছে এটি উন্মুক্ত ও চ্যারিটিওয়্যার। মূলত প্রোডাক্টিভিটির জন্যই প্রোগ্রামাররা Vim ব্যাবহার করেন। 

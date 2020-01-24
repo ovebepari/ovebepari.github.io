@@ -3,7 +3,7 @@ layout: post
 title: The Best Way to Understand It is to Write a Book about It - File Systems 
 comments: true
 categories: Linux|Systems
-location: Dhaka, Bangladesh
+location: DUET, Bangladesh
 ---
 
 Whenever something appears confusing, I interpret it as I'm about to learn this "thing", thus its kinda making sense and kinda not. Well I know a few verses of a poem, maybe not a poem:

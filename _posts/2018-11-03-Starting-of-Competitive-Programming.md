@@ -3,7 +3,7 @@ layout: post
 title: Starting of Competitive Programming, My Opinion on My Intellectual Abilities are on Question
 comments: true
 categories: Personal
-location: Dhaka, Bangladesh
+location: DUET, Bangladesh
 ---
 
 Few weeks ago (on 27th June, 2018, first live contest on Codeforces) I started Sports Programming. I've been coding for a while and building stuffs I needed (like chrome extensions, file sharing server etc) and while making an efficient file compressor for myself, I came to know that I needed more algorithmic skills. Which can be learned but without any proper practice, usually it'd take a lot of time to code and implement is what I concluded.

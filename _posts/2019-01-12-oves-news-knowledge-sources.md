@@ -3,7 +3,7 @@ layout: post
 title: My News and Knowledge Sources
 comments: true
 categories: Personal
-location: Dhaka, Bangladesh
+location: DUET, Bangladesh
 ---
 
 Not much of a great post but I've decided that I'll stop sharing good stuff on social media and share a blog stating my sources of where I get my news/knowledge from instead. Interested people will sneak their way through to good things.

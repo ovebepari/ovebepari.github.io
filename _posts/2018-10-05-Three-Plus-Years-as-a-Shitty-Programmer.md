@@ -3,7 +3,7 @@ layout: post
 title: Three Plus Years as a Shitty Programmer, Confessions and Suggestions
 comments: true
 categories: Personal
-location: Dhaka, Bangladesh
+location: DUET, Bangladesh
 ---
 
 Every new day starts with a feeling like, well, I was a shitty programmer yesterday. It is a good thing, maybe it means I'm growing. So things I used to do on a regular basis that made me a shitty programmer are:

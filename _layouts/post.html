@@ -7,11 +7,15 @@ layout: default
 
   <span class="post-date">
     
-    <i class="fa fa-calendar"></i>
-    {{ page.date | date_to_string }}
+    {% if page.date != nil %}
+      <i class="fa fa-calendar"></i>
+      {{ page.date | date_to_string }}
+      
+      <span>&nbsp;</span>
+
+    {% endif %}
 
 
-    <span>&nbsp;</span>
     {% if post %}
       {% assign categories = post.categories %}
     {% else %}
@@ -23,12 +27,14 @@ layout: default
       {% for category in categories %}
       <a class="category" href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
       {% endfor %}
+
+      <span>&nbsp;</span>
+
     {%endif%}
     
 
     
     {% if page.location %}
-      <span>&nbsp;</span>
       <i class="fa fa-map-marker"></i>
       {{page.location}}
     {% endif %}

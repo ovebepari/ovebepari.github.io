@@ -3,7 +3,7 @@ layout: post
 title: MIT OCW Courses That I'm Taking / Planning to Take
 comments: true
 categories: Personal
-location: Dhaka, Bangladesh
+location: DUET, Bangladesh
 ---
 
 This post might not seem useful but I've been researching a lot about CS lately and instead of bookmarking and finding the course links from the browser, I thought an article containing all the links would be good which I can share with my friends later. 
