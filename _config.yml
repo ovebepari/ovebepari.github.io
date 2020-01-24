@@ -24,3 +24,5 @@ author:
 
 # For a global message in the head
 message: 
+
+exclude: ["resume.md"]
