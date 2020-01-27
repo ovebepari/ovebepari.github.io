@@ -18,8 +18,9 @@ plugins:
   - jekyll-sitemap
 
 author:
-  name:           'ovebepari'
-  url:            https://github.com/ovebepari
+  name: 'ovebepari'
+  url: https://github.com/ovebepari
+  twitter: "ovebepari"
 
 
 # For a global message in the head
