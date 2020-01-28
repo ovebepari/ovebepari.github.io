@@ -3,6 +3,18 @@ layout: default
 ---
 
 <div class="post">
+
+  {% assign pageYear = page.date | date: "%Y" | minus: 2019 %}
+  {% if pageYear < 0 %}
+    <p class="deprecation-notice">
+      <i class="fas fa-exclamation-triangle"></i>  This content has been written a long time
+      ago. As such, it might not reflect my current thoughts anymore. I keep this
+      page online because it might still contain valid information.
+  </p>
+  {% endif %}
+
+
+  
   <h1 class="post-title">{{ page.title }}</h1>
 
   <span class="post-date">
