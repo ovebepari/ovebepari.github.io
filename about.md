@@ -22,11 +22,15 @@ Currently studying **BSc** in **CSE** at **Dhaka University of Engineering and T
 
 On his free time, he usually converts people from windows to GNU/Linux, (jk, he likes conversations about various Operating System Internals)
 
- 
-Find him on &nbsp;<a href="https://www.quora.com/profile/Ove-Bepari"><i class="fab fa-quora" style='color:#C6262F'></i> Quora</a>  &nbsp;<a href="https://linkedin.com/in/ovebepari"><i class="fab fa-linkedin" style='color:#007CB2'></i> LinkedIn</a> &nbsp;<a href="https://www.github.com/ovebepari"><i class="fab fa-github"></i> GitHub</a> or <a href="mailto:codovi71@gmail.com"> <i class="fa fa-envelope"></i> Email him</a> in his public e-mailing address if needed. 
-
 Need context on when to send emails? Here you go:
+
 <br>
 <center>
 	<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FDhaka&amp;src=MTZtampkbzI2N29kdDgxbXY0bHVxMnJocjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23616161" style="border-width:0" width="600" height="500" frameborder="0" scrolling="no"></iframe>
 </center>
+
+<br>
+<br>
+
+ 
+Find him on &nbsp;<a href="https://www.quora.com/profile/Ove-Bepari"><i class="fab fa-quora" style='color:#C6262F'></i> Quora</a>  &nbsp;<a href="https://linkedin.com/in/ovebepari"><i class="fab fa-linkedin" style='color:#007CB2'></i> LinkedIn</a> &nbsp;<a href="https://www.github.com/ovebepari"><i class="fab fa-github"></i> GitHub</a> or <a href="mailto:codovi71@gmail.com"> <i class="fa fa-envelope"></i> Email him</a> in his public e-mailing address if needed. 
