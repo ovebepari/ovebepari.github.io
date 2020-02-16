@@ -26,7 +26,7 @@ Need context on when to send emails? Here you go:
 
 <br>
 <center>
-	<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FDhaka&amp;src=MTZtampkbzI2N29kdDgxbXY0bHVxMnJocjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23616161" style="border-width:0" width="600" height="500" frameborder="0" scrolling="no"></iframe>
+	<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FDhaka&amp;src=MTZtampkbzI2N29kdDgxbXY0bHVxMnJocjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23616161" style="border-width:0" width="100%" frameborder="0" scrolling="no"></iframe>
 </center>
 
 <br>
