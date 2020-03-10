@@ -10,11 +10,11 @@ I always wandered how `git` worked internally. It's a beautiful piece of softwar
 
 GitHub is HUGE too, too many constrains, user authentication, inter-GitHub cloning-pushing, authentication of  push requests, merging data from various users, data compression and delivery over the network, I mean it is the peak for Computer Science and Software Engineering as far as I can imagine. I just wanted to know how `git` sent HTTP requests (if it was the case) to a server and how the server responded. So I didn't need to code awfully lot details. I just needed to respond to a Git CLI client's request and work accordingly. That's what I did. 
 
-I used `python3 flask` on the backend. I ran a local web server with `python3 -m http.serve` and checked if I could detect any requests sent from the `Git CLI` with this command: `git clone http://0.0.0.0:8000`. And it did surprisingly.
+I used `python3 flask` on the backend. I ran a local web server with `python3 -m http.server` and checked if I could detect any requests sent from the **Git server logs** with this command: `git clone http://0.0.0.0:8000`. And it did surprisingly.
 
 ![Gits HTTP Request to the Server](/post_images/2020/Mar/gits_http_request.png){:.center-image}
 
-And our Git CLI's HTTP request found on the CLI is `GET /info/refs?service=git-upload-pack HTTP/1.1`. It's a GET request on the `/info/` directory possible inside `/.git/` directory. Everything is self-explanatory except that `git-upload-pack` keyword, what's that? Let's Google then.
+And our Git CLI's HTTP request found on the **server log** is `GET /info/refs?service=git-upload-pack HTTP/1.1`. It's a GET request on the `/info/` directory possible inside `/.git/` directory. Everything is self-explanatory except that `git-upload-pack` keyword, what's that? Let's Google then.
 
 <center>A few days of goggling!</center><br>
 
