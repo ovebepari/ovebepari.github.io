@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Mature Content]Starting of Linux from Scratch Project, Expectations and Goals 
+title: (Mature Content) Starting of Linux from Scratch Project, Expectations and Goals 
 comments: true
 categories: Linux|Systems
 location: DUET, Bangladesh
