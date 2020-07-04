@@ -1,12 +1,12 @@
 ---
 layout: post
-title: (Mature Content) Starting of Linux from Scratch Project, Expectations and Goals 
+title: (Updadted) Starting of Linux from Scratch Project, Expectations and Goals 
 comments: true
 categories: Linux|Systems
 location: DUET, Bangladesh
 ---
 
-<i>Update, a year or so later: I've grown over the years. It really doesn't make any sense to compile an OS with ubuntu's mirror package servers. I've explored the path and I'm kinda happy that I learnt how all that works but i'd never say, mommy, I made an OS. It doesn't work like that. Shout out to all the people contributing to Open Source. Thank you <a href="https://launchpad.net/ubuntu/+archivemirrors">Official Archive Mirrors for Ubuntu</a> and all other people who donates thier server resources for open source, you people make the world a better place.</i>
+<i>Update, a year or so later: I've grown so much over the years. It really doesn't make any sense to compile an OS with ubuntu's mirror package servers. I've explored the path and I'm kinda happy that I learnt how all that works but i'd never say, mommy, I made an OS. It doesn't work like that. Shout out to all the people contributing to Open Source. Thank you <a href="https://launchpad.net/ubuntu/+archivemirrors">Official Archive Mirrors for Ubuntu</a> and all other people who donates thier server resources for open source, you people make the world a better place.</i>
 
 I fell in love with GNU/Linux the 366th day I installed it on my system. It took a year because of the learning curve that seemed a bit steep for me and coming from Windows and a Graphic Design hyped month that I was having at that moment. But being a full time web-developer, I couldn't go back to Windows ever again, I felt the need to stay. I love the existence of the idea of GNU and Linux.
 
