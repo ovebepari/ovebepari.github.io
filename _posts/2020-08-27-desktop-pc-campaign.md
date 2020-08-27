@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Desktop PC Campaign 
-comments: true
+comments: false
 categories: Personal
 location: DUET, Bangladesh
 ---
