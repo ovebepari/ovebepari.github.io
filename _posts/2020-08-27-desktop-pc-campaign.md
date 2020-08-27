@@ -167,7 +167,7 @@ location: Tangibari, Munshiganj
     .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
     
     table{ width: 100%;}
-    thead {font-weight: bold;}
+    thead, th{font-weight: bold;}
     
     </style>
 
@@ -238,11 +238,7 @@ Here is the complete overview and the product lists that I'm going to purchase, 
     <td class="tg-baqh">xxxxx</td>
     <td class="tg-dvpl">৳20</td>
   </tr>
-    <!-- even -->
-  <tr>
-    <td class="tg-btxf">test</td>
-    <td class="tg-dzk6">test</td>
-    <td class="tg-5fiw">৳test</td>
-  </tr>
+
+
 </tbody>
 </table>
