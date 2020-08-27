@@ -176,6 +176,7 @@ location: Tangibari, Munshiganj
 <body>
 Here is the complete overview and the product lists that I'm going to purchase, with additional information such as product links, how much money has been managed so far etc.
 <br/>
+<br/>
 
 
 <i class="fas fa-check-circle"></i> implies money raised to purchase this item. 
