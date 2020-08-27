@@ -158,7 +158,7 @@ location: Tangibari, Munshiganj
     <li class="active">
             <a target="_blank" href="https://www.ryanscomputers.com/detail/a4-tech-kb-8a-black-usb-smart-key-keyboard">
             <span class="bubble"></span>
-            <i class="fab fa-check-circle"></i>
+            <i class="fas fa-check-circle"></i>
             <i class="fas fa-keyboard"></i>
             Keyboard
         </a>
