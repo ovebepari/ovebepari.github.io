@@ -9,19 +9,8 @@ location: DUET, Bangladesh
 
 <link href="https://cdn.jsdelivr.net/gh/christabor/css-progress-wizard@master/css/progress-wizard.min.css" rel="stylesheet">
 <style>
-    body {
-        font-family: 'Lato', sans-serif;
-        font-size: 20px;
-        padding: 20px;
-    }
-    .container {
-        width: 70%;
-        margin: 3em auto;
-    }
     a {
-        color: #406753;
         text-decoration: none;
-        border-bottom: 1px dotted #999;
     }
     a:hover {
         color: black;
@@ -29,16 +18,6 @@ location: DUET, Bangladesh
     }
     hr {
         opacity: 0.3;
-    }
-    h1 {
-        font-size: 50px;
-    }
-    h3 {
-        border-left: 12px solid #f1f1f1;
-        text-indent: 1em;
-        color: #999;
-        margin-top: 2em;
-        font-weight: 100;
     }
     ul {
         margin: 0;
