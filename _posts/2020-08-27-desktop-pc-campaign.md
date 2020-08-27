@@ -11,7 +11,7 @@ location: Tangibari, Munshiganj
 <style>
     a {
         text-decoration: none;
-        border:none;
+        border:none !important;
     }
     ul {
         margin: 0;
