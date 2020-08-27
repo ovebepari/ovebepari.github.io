@@ -190,7 +190,7 @@ Here is the complete overview and the product lists that I'm going to purchase, 
     <li>
         <a target="_blank" href="https://www.ryanscomputers.com/detail/a4-tech-op-620d-usb-optical-mouse">
             <span class="bubble"></span>
-            <i class="fas fa-mouse"></i>
+            <i class="fas fa-mouse-pointer"></i>
             Mouse
         </a>
     </li>
