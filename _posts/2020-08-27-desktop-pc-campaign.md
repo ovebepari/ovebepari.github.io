@@ -3,7 +3,7 @@ layout: post
 title: Desktop PC Campaign 
 comments: false
 categories: Personal
-location: DUET, Bangladesh
+location: Tangibari, Munshiganj
 ---
 
 
@@ -11,13 +11,7 @@ location: DUET, Bangladesh
 <style>
     a {
         text-decoration: none;
-    }
-    a:hover {
-        color: black;
-        border-color: black;
-    }
-    hr {
-        opacity: 0.3;
+        border:none;
     }
     ul {
         margin: 0;
