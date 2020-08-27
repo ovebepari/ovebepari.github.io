@@ -155,14 +155,16 @@ location: Tangibari, Munshiganj
 
 <body>
 <ul class="progress-indicator custom-complex">    
-    <li class="active">
-        <a target="_blank" href="https://www.ryanscomputers.com/detail/a4-tech-kb-8a-black-usb-smart-key-keyboard">
+    
+    <a target="_blank" href="https://www.ryanscomputers.com/detail/a4-tech-kb-8a-black-usb-smart-key-keyboard">
+        <li class="active">
             <span class="bubble"></span>
             <!-- <i class="fab fa-check-circle"></i> -->
             <i class="fas fa-keyboard"></i>
             Keyboard
-        </a>
-    </li>
+        </li>
+    </a>
+    
     <li>
         <a target="_blank" href="https://www.ryanscomputers.com/detail/a4-tech-op-620d-usb-optical-mouse">
             <span class="bubble"></span>
