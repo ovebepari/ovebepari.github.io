@@ -153,15 +153,17 @@ location: Tangibari, Munshiganj
     }
     
     /* Table styles */
-     .tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+    .tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
     .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
       font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;word-break:normal;}
     .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
       font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
     .tg .tg-5fiw{background-color:#f9f9f9;border-color:inherit;text-align:right;vertical-align:top}
     .tg .tg-zd5i{border-color:inherit;font-size:14px;text-align:left;vertical-align:top}
     .tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
     .tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
     .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
     
     table{ width: 100%;}
@@ -216,19 +218,19 @@ location: Tangibari, Munshiganj
 <thead>
   <tr>
     <th class="tg-zd5i">Identity</th>
-    <th> Transaction ID </th>
+    <th class="tg-baqh">Transaction ID</th>
     <th class="tg-dvpl">Amount</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-btxf">01679122103</td>
-    <td> xxxxxxx <td>
+    <td class="tg-dzk6">xxxxx</td>
     <td class="tg-5fiw">৳580</td>
   </tr>
   <tr>
     <td class="tg-0pky">anonymous</td>
-      <td> xxxx </td>
+    <td class="tg-baqh">xxxxx</td>
     <td class="tg-dvpl">৳20</td>
   </tr>
 </tbody>
