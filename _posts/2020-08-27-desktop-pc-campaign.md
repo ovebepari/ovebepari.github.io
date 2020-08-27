@@ -165,6 +165,7 @@ location: Tangibari, Munshiganj
     .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
     
     table{ width: 100%;}
+    thead {font-weight: bold;}
     
     </style>
 
@@ -215,16 +216,19 @@ location: Tangibari, Munshiganj
 <thead>
   <tr>
     <th class="tg-zd5i">Identity</th>
+    <th> Transaction ID </th>
     <th class="tg-dvpl">Amount</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-btxf">01679122103</td>
+    <td> xxxxxxx <td>
     <td class="tg-5fiw">৳580</td>
   </tr>
   <tr>
     <td class="tg-0pky">anonymous</td>
+      <td> xxxx </td>
     <td class="tg-dvpl">৳20</td>
   </tr>
 </tbody>
