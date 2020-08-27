@@ -225,19 +225,24 @@ Here is the complete overview and the product lists that I'm going to purchase, 
 </thead>
 <tbody>
     
-  /* even */  
+  <!-- even -->
   <tr>
     <td class="tg-btxf">01679122103</td>
     <td class="tg-dzk6">xxxxx</td>
     <td class="tg-5fiw">৳580</td>
   </tr>
     
-  /* odd */  
+  <!-- odd -->  
   <tr>
     <td class="tg-0pky">anonymous</td>
     <td class="tg-baqh">xxxxx</td>
     <td class="tg-dvpl">৳20</td>
   </tr>
-  
+    <!-- even -->
+  <tr>
+    <td class="tg-btxf">test</td>
+    <td class="tg-dzk6">test</td>
+    <td class="tg-5fiw">৳test</td>
+  </tr>
 </tbody>
 </table>
