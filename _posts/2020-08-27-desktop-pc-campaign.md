@@ -9,6 +9,9 @@ location: Tangibari, Munshiganj
 
 <link href="https://cdn.jsdelivr.net/gh/christabor/css-progress-wizard@master/css/progress-wizard.min.css" rel="stylesheet">
 <style>
+    a[href^="http"]{
+        border:none;
+    }
     a {
         text-decoration: none;
         border:none !important;
