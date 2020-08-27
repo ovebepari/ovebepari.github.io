@@ -41,6 +41,7 @@ location: Tangibari, Munshiganj
     /* A totally custom override */
 
     .progress-indicator.custom-complex {
+        margin-top: 1em;
         background-color: #f1f1f1;
         padding: 10px 5px;
         border: 1px solid #ddd;
