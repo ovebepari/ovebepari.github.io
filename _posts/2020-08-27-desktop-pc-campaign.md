@@ -177,6 +177,10 @@ location: Tangibari, Munshiganj
 Here is the complete overview and the product lists that I'm going to purchase, with additional information such as product links, how much money has been managed so far etc.
 <br/>
 
+
+<i class="fas fa-check-circle"></i> implies money raised to purchase this item. 
+<br/>
+
 <ul class="progress-indicator custom-complex">    
     <li class="active">
             <a target="_blank" href="https://www.ryanscomputers.com/detail/a4-tech-kb-8a-black-usb-smart-key-keyboard">
