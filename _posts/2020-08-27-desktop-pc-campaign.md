@@ -173,6 +173,8 @@ location: Tangibari, Munshiganj
 
 <body>
 Here is the complete overview and the product lists that I'm going to purchase, with additional information such as product links, how much money has been managed so far etc.
+</br>
+
 <ul class="progress-indicator custom-complex">    
     <li class="active">
             <a target="_blank" href="https://www.ryanscomputers.com/detail/a4-tech-kb-8a-black-usb-smart-key-keyboard">
@@ -214,7 +216,7 @@ Here is the complete overview and the product lists that I'm going to purchase, 
 </ul>
 
 
-<h3> Collection so far </h3>
+<h3> Collection so far:</h3>
 <table class="tg">
 <thead>
   <tr>
@@ -228,7 +230,7 @@ Here is the complete overview and the product lists that I'm going to purchase, 
   <!-- even -->
   <tr>
     <td class="tg-btxf">01679122103</td>
-    <td class="tg-dzk6">xxxxx</td>
+    <td class="tg-dzk6">7HQ9E845KN</td>
     <td class="tg-5fiw">৳580</td>
   </tr>
     
