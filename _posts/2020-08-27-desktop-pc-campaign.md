@@ -200,10 +200,10 @@ Here is the complete overview and the product lists that I'm going to purchase, 
         </a>
     </li>
     <li>
-        <a target="_blank" href="https://www.ryanscomputers.com/detail/-asus-d641md-i59400027d-9th-gen-intel-core-i5-9400-black-brand-pc">
+        <a target="_blank" href="https://www.startech.com.bd/dell-optiplex-5050-core-i5-win10-pc">
             <span class="bubble"></span>
             <i class="fas fa-server"></i>
-            System Box
+            System Unit
         </a>
     </li>
     <li>
