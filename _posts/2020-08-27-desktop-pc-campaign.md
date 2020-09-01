@@ -183,10 +183,10 @@ Here is the complete overview and the product lists that I'm going to purchase, 
 <br/>
 
 <ul class="progress-indicator custom-complex">    
-    <li class="complete">
+    <li class="completed">
             <a target="_blank" href="https://www.ryanscomputers.com/detail/a4-tech-kb-8a-black-usb-smart-key-keyboard">
             <span class="bubble"></span>
-            <i class="fas fa-check-circle"></i>
+            <i class="fas fa-check-circle" style="color:#65d074;"></i>
             <i class="fas fa-keyboard"></i>
             Keyboard
         </a>
