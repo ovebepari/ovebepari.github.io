@@ -179,7 +179,7 @@ Here is the complete overview and the product lists that I'm going to purchase, 
 <br/>
 
 
-<i class="fas fa-check-circle"></i> implies money raised to purchase this item. 
+<i class="fas fa-check-circle" style="color:#65d074;"></i>  implies money raised to purchase this item. 
 <br/>
 
 <ul class="progress-indicator custom-complex">    
@@ -249,5 +249,6 @@ Here is the complete overview and the product lists that I'm going to purchase, 
   </tr>
 
 
+Thank you for your contribution. I'll pass this along.
 </tbody>
 </table>
