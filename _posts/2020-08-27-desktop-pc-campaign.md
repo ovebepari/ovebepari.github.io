@@ -183,7 +183,7 @@ Here is the complete overview and the product lists that I'm going to purchase, 
 <br/>
 
 <ul class="progress-indicator custom-complex">    
-    <li class="active">
+    <li class="complete">
             <a target="_blank" href="https://www.ryanscomputers.com/detail/a4-tech-kb-8a-black-usb-smart-key-keyboard">
             <span class="bubble"></span>
             <i class="fas fa-check-circle"></i>
@@ -192,7 +192,7 @@ Here is the complete overview and the product lists that I'm going to purchase, 
         </a>
     </li>
     
-    <li>
+    <li class="active">
         <a target="_blank" href="https://www.ryanscomputers.com/detail/a4-tech-op-620d-usb-optical-mouse">
             <span class="bubble"></span>
             <i class="fas fa-mouse-pointer"></i>
