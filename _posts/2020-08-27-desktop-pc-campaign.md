@@ -249,6 +249,8 @@ Here is the complete overview and the product lists that I'm going to purchase, 
   </tr>
 
 
-Thank you for your contribution. I'll pass this along.
 </tbody>
 </table>
+
+<br/>
+Thank you for your contribution. I'll pass this along.
