@@ -237,7 +237,7 @@ Here is the complete overview and the product lists that I'm going to purchase, 
     
   <!-- even -->
   <tr>
-    <td class="tg-btxf">01679122103</td>
+    <td class="tg-btxf">01679122103 (me)</td>
     <td class="tg-dzk6">7HQ9E845KN</td>
     <td class="tg-5fiw">৳580</td>
   </tr>
