@@ -249,7 +249,7 @@ Here is the complete overview and the product lists that I'm going to purchase, 
     <td class="tg-dvpl">৳20</td>
   </tr>
 
-
+<small style="color: orangered;/*! font-weight: 300; */font-size: 0.7em;"> <i class="fas fa-circle"></i> Contribution list will be updated every dat at 8:00PM</small>
 </tbody>
 </table>
 
