@@ -237,7 +237,7 @@ Here is the complete overview and the product lists that I'm going to purchase, 
     
   <!-- even -->
   <tr>
-    <td class="tg-btxf">01679122103 (me)</td>
+    <td class="tg-btxf">01679xxxx03 (me)</td>
     <td class="tg-dzk6">7HQ9E845KN</td>
     <td class="tg-5fiw">৳580</td>
   </tr>
@@ -248,6 +248,14 @@ Here is the complete overview and the product lists that I'm going to purchase, 
     <td class="tg-baqh">xxxxx</td>
     <td class="tg-dvpl">৳20</td>
   </tr>
+
+  <!-- even -->
+  <tr>
+    <td class="tg-btxf">01888xxxx48</td>
+    <td class="tg-dzk6">7IB7NN3ZG7</td>
+    <td class="tg-5fiw">৳1000</td>
+  </tr>
+
 
 <small style="color: orangered;/*! font-weight: 300; */font-size: 0.7em;">Contribution list will be updated every dat at 8:00PM</small>
 </tbody>
