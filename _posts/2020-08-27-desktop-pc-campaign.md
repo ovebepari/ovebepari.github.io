@@ -193,20 +193,22 @@ Here is the complete overview and the product lists that I'm going to purchase, 
         </a>
     </li>
     
-    <li class="active">
+    <li class="completed">
         <a target="_blank" href="https://www.ryanscomputers.com/detail/a4-tech-op-620d-usb-optical-mouse">
             <span class="bubble"></span>
             <i class="fas fa-mouse-pointer"></i>
             Mouse
         </a>
     </li>
-    <li>
+
+    <li class="active">
         <a target="_blank" href="https://www.startech.com.bd/dell-optiplex-5050-core-i5-win10-pc">
             <span class="bubble"></span>
             <i class="fas fa-server"></i>
             System Unit
         </a>
     </li>
+
     <li>
         <a target="_blank" href="https://www.ryanscomputers.com/detail/dell-e2316h-23-inch-full-hd-tn-panel-wled-backlight-monitor-dpvga-wall">
             <span class="bubble"></span>
@@ -214,6 +216,7 @@ Here is the complete overview and the product lists that I'm going to purchase, 
             Monitor
         </a>
     </li>
+
     <li>
         <a target="_blank" href="https://www.ryanscomputers.com/detail/-power-guard-pg650va-ps-650va-offline-ups-with-metal-body-">
             <span class="bubble"></span>
