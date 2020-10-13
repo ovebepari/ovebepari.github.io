@@ -256,6 +256,13 @@ Here is the complete overview and the product lists that I'm going to purchase, 
     <td class="tg-5fiw">৳1000</td>
   </tr>
 
+  <!-- odd -->  
+  <tr>
+    <td class="tg-0pky">FnF</td>
+    <td class="tg-baqh">xxxxx</td>
+    <td class="tg-dvpl">৳35000</td>
+  </tr>
+
 
 <small style="color: orangered;/*! font-weight: 300; */font-size: 0.7em;">Contribution list will be updated every dat at 8:00PM</small>
 </tbody>
