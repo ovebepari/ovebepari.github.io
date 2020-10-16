@@ -174,6 +174,10 @@ location: Tangibari, Munshiganj
     </style>
 
 <body>
+<p>
+The campaign has ended. Thank everyone for the donations!
+</p>
+
 Here is the complete overview and the product lists that I'm going to purchase, with additional information such as product links, how much money has been managed so far etc.
 <br/>
 <br/>
@@ -201,15 +205,15 @@ Here is the complete overview and the product lists that I'm going to purchase, 
         </a>
     </li>
 
-    <li class="active">
+    <li class="completed">
         <a target="_blank" href="https://www.startech.com.bd/dell-optiplex-5050-core-i5-win10-pc">
             <span class="bubble"></span>
             <i class="fas fa-server"></i>
-            System Unit
+            System Unit (approx)
         </a>
     </li>
 
-    <li>
+    <li class="completed">
         <a target="_blank" href="https://www.ryanscomputers.com/detail/dell-e2316h-23-inch-full-hd-tn-panel-wled-backlight-monitor-dpvga-wall">
             <span class="bubble"></span>
             <i class="fas fa-desktop"></i>
@@ -217,7 +221,7 @@ Here is the complete overview and the product lists that I'm going to purchase, 
         </a>
     </li>
 
-    <li>
+    <li class="completed">
         <a target="_blank" href="https://www.ryanscomputers.com/detail/-power-guard-pg650va-ps-650va-offline-ups-with-metal-body-">
             <span class="bubble"></span>
             <i class="fas fa-battery-three-quarters"></i>
