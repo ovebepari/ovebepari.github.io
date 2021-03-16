@@ -15,4 +15,5 @@ I started making a plugin for Microsoft Outlook desktop client and for the Web O
 However, there are two API endpoints to access and work with user emails. 
 - MS Office API (Deprecating)
 - MS Graph API (Recommended)
+
 I built my addon with **MS Office API** first. Then I needed to send email threads as attachments which I could't find any documentations within MS Office API, it was doable, but needed to hit **MS Graph API** endpoint. For some reason, **MS Graph API** authentication as developer seemed hectic and the whole task made me overwhelmed to say the least. 
