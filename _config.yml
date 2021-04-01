@@ -6,7 +6,7 @@ permalink:        /:categories/:slug/
 # relative_permalinks: true
 
 # Setup
-title:            Ove's Notes
+title:            "Ove's Notes"
 tagline:          'Notes about This and That and Softwares'
 description:      'Ove Bepari, An INTJ, CSE Undergrad Coder Who Usually Tries to Write Executable Poetry'
 url:              https://ovebepari.github.io
