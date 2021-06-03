@@ -9,7 +9,7 @@ location: DUET, Bangladesh
 Not much of a great post but I've decided that I'll stop sharing good stuff on social media and share a blog stating my sources of where I get my news/knowledge from instead. Interested people will sneak their way through to good things.
 
 ![Stargazers](/post_images/2021/Jun/stargazers.jpg){:.center-image}
-<center> <small>Image Taken from National Geographic</small> </center> <br>
+<center> <small>Image: Google</small> </center> <br>
 
 
 ## Too Frequent, about Software Mostly:
