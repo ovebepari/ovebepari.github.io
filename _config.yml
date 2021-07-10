@@ -6,10 +6,10 @@ permalink:        /:categories/:slug/
 # relative_permalinks: true
 
 # Setup
-title:            "Ove's Notes"
-tagline:          'Notes about This and That and Softwares'
-description:      'Ove Bepari, An INTJ, CSE Undergrad Coder Who Usually Tries to Write Executable Poetry'
-url:              https://ovebepari.github.io
+title:            "DUETCS"
+tagline:          'DUET Computer Society'
+description:      'Working on bringing the tech skill gap and new world problem solving and addressing gap down, locally at DUET, Gazipur.'
+url:              https://duetcs.github.io
 baseurl:          ''
 
 plugins:
