@@ -4,5 +4,5 @@ title: About
 ---
 
 <p align="center"> 
-<img src="/favicon.ico">
+<img src="/post_images/duetcs_logo.png">
 </p>
