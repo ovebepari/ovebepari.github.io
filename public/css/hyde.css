@@ -59,6 +59,15 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #465158;
 }
+
+img.center_small {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -68,10 +77,13 @@ html {
     width: 18rem;
     text-align: left;
   }
+  img.center_small {
+  width: 50%;
+  display: block;
+  margin-left: 0px;
+}
 
-  img.center_small{
-    align-content: center;
-  }
+
 }
 
 /* Sidebar links */
@@ -116,6 +128,7 @@ a.sidebar-nav-item:focus {
     bottom: 1rem;
     left:   1rem;
   }
+
 }
 
 
