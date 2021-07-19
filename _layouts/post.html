@@ -50,6 +50,12 @@ layout: default
       <i class="fa fa-map-marker"></i>
       {{page.location}}
     {% endif %}
+
+    {% if page.author %}
+    <br>
+      <i class="fas fa-pen-alt"></i>
+      {{page.author}}
+    {% endif %}
     
 </span>
   {{ content }}

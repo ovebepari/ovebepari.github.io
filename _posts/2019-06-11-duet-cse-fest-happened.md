@@ -4,6 +4,7 @@ title: DUET CSE Fest - 2019, as it happened
 comments: true
 categories: Events
 location: DUET, Bangladesh
+author: Ove Bepari, Md Yamin
 ---
 
 ![Administrative Bodies](/post_images/csefest/antu_sir.jpg){:.center-image} <br>
@@ -40,4 +41,4 @@ We are glad and thankful to everyone who made this beautiful event happen.
 <br>
 Writen By:
 - Md Yamin, Additional Li-aison& Publications, DUETCS (2021)
-- <a href="https://ovebepari.github.io">Ove Bepari</a>, Former GS, Vice President, DUET(2021)
+- <a href="https://ovebepari.github.io">Ove Bepari</a>, Former GS, Vice President, DUETCS(2021)
