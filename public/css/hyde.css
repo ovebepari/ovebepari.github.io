@@ -68,6 +68,10 @@ html {
     width: 18rem;
     text-align: left;
   }
+
+  img.center_small{
+    align-content: center;
+  }
 }
 
 /* Sidebar links */
