@@ -41,4 +41,6 @@ delete আর change প্রায় একই জিনিস, delete শুধ
 
 Vim এর হাজার হাজার কমান্ড আছে যা বলে শেষ করা যাবে না, <a href="https://vim.rtorr.com/">Vim Cheat Sheet</a> দেখে নিবেন, মজার বিষয় এই কমান্ড গুলো  মুখস্থের জন্য নয়, কোডিং করতে করতে এগুলা হাতের মাথায় চলে আসে। 
 
-<a href="https://www.openvim.com/">Vim ইন্টারেক্টিভ টিউটোরিয়াল, </a>
+<a href="https://www.openvim.com/">Vim ইন্টারেক্টিভ টিউটোরিয়াল।</a>
+
+প্রায় সকল কোড এডিটরেই vim bindings পাওয়া যায় (such as <a href="https://marketplace.visualstudio.com/items?itemName=vscodevim.vim">VSCode Vim Extension</a>), যেকোন কোড ইডিটরেই তাই নিশ্চিন্তে স্কিল ট্রান্সফার করা যাবে, প্লাস যারা সার্ভার এ টুকটাক কাজ করবেন, শুধু টার্মিনাল দিয়ে লাইন ইডিটিং টুল হিসিবেও  vim কাজে লাগবে। 
