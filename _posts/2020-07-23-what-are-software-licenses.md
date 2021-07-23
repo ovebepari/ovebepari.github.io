@@ -1,7 +1,7 @@
 ---
 layout: post
 title: সফটওয়্যার লাইসেন্স কি? 
-comments: true
+comments: false
 categories: Misc
 location: DUET, Bangladesh
 author: Md Yamin

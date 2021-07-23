@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workshop on GNU/Linux held, July, 2020 
-comments: true
+comments: false
 categories: Events
 location: DUET, Bangladesh
 author: Ove Bepari
