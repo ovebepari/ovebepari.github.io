@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DUET CSE Fest - 2019, as it happened
-comments: false
+comments: true
 categories: Events
 location: DUET, Bangladesh
 author: Ove Bepari, Md Yamin
