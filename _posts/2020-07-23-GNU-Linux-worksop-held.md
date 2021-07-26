@@ -12,3 +12,15 @@ author: Ove Bepari
 ![Workshop Schedule](/post_images/gnulinux_workshop/WorkshoponGNUlinuxsyllabus.png){:.center-image}
 
 <center> <small>Workshop on GNU/Linux, held by DUETCS</small> </center> <br>
+
+## Session One
+Session One was conducted by Ove Bepari. Intro to GNU/Linux Systems and open source philosophies.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omys47kc4II" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Session Two
+Session two was conducted by Md. Shihab. Basic Package Management in GNU/Linux systems.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/65C4aXRmb8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Session three and found will be conducted.
