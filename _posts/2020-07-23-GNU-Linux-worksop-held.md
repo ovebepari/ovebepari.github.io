@@ -23,4 +23,7 @@ Session two was conducted by Md. Shihab. Basic Package Management in GNU/Linux s
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/65C4aXRmb8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Session three and found will be conducted.
+### Session Three
+Session Three was conducted by Pranta Saha. In dept Introduction to Linux terminals and how they work.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mJ9tHAO9VzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
