@@ -8,6 +8,6 @@ title: 'About'
 </p>
 <br>
 
-DUET Computer Society, founded on 2010, by <a href="https://sites.google.com/a/duet.ac.bd/mmalam/">Md Mahbub Alam</a>, works alongside of CSE Department, DUET to bring the tech skill gap and new world problem solving and addressing gap down, locally at DUET, Gazipur.
+DUET Computer Society, founded on 2010, by <a href="https://sites.google.com/a/duet.ac.bd/mmalam/">Md Mahbub Alam</a> and CSE 7th batch, works alongside with CSE Department, DUET to bring the tech skill gap and new world problem solving and addressing gap down, locally at DUET, Gazipur.
 
 Computer Science, as a field, is growing faster, in a mesmerizing speed. Tackling new world problems and solving them becomes an important aspect for every CS graduate out there. DUETCS tries and loves to be the part of the process.
