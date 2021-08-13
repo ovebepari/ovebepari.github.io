@@ -41,7 +41,7 @@ I check them now and then. They also appear on HN, so, did I mention HN is enoug
 - [Netflix Engineering](https://netflixtechblog.com/)
 - [Twitter Engineering](https://blog.twitter.com/engineering/en_us)
 
-- [KhanAcademy Engineering](https://shopify.engineering/)
+- [Shopify Engineering](https://shopify.engineering/)
 - [Instagram Engineering](https://instagram-engineering.com/)
 - [Stripe Engineering](https://stripe.com/blog)
 - [Discord Engineering](https://blog.discord.com/engineering-posts/home)
