@@ -8,7 +8,7 @@ permalink:        /:categories/:slug/
 # Setup
 title:            "Ove's Notes"
 tagline:          'Notes about This and That and Softwares'
-description:      'An absurdist. I can never understand everything. But, I should push myself to understand the system.'
+description:      'An absurdist. Learning Computers, One Abstraction Layer a Year.' 
 url:              https://ovebepari.github.io
 baseurl:          ''
 
