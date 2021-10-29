@@ -20,6 +20,7 @@ I've decided that I'll stop sharing good stuff on social media and share a blog 
 >
 > <cite>- Engineering Gods</cite>
 
+- [Google Podcasts](https://podcasts.google.com/)
 - Twitter  [Follow Quality People]
 - Facebook [Follow Quality People]
 - [Joel on Software](https://www.joelonsoftware.com/)
