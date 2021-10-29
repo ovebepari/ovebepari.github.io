@@ -4,7 +4,7 @@ title: About
 ---
 
 <p align="center"> 
-<img src="/favicon.ico">
+<img src="/post_images/ove.jpg">
 </p>
 
 INTJ, CS Enthusiast.
