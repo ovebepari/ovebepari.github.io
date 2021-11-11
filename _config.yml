@@ -25,6 +25,6 @@ author:
 
 
 # For a global message in the head
-message:
+message: "I plan to contribute at least one commit to CURL project this year, this is a reminder!"
 
 exclude: []
