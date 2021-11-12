@@ -21,3 +21,32 @@ Docker follows a client-server architechture. The docker cli binary that runs `d
 > Docker has a daemon, Git Doesn't. Both are extreamly wonderful CLI applications.
 
 *Docker server* exposes a socket file in unix systems to talk to the *docker client*. This socket file `/var/run/docker.sock` is INDEPENDENT, with appropriate READ/WRITE access, speaking in a language both the client and then server understand (Protocol), works as a bridge between them.
+
+We can use `CURL` to talk to a Unix Socket using the `--unix-socket` flag and access the [Docker REST API](https://docs.docker.com/engine/api/v1.37/). Most of the client commands map directly to API endpoints (e.g. `docker ps` is `GET /containers/json`).
+
+
+```bash
+dovi@dovi-machine:~$ curl --unix-socket /var/run/docker.sock http://localhost/images/json | jq
+
+[
+  {
+    "Containers": -1,
+    "Created": 1630372856,
+    "Id": "sha256:fb52e22af1b01869e23e75089c368a1130fa538946d0411d47f964f8b1076180",
+    "Labels": null,
+    "ParentId": "",
+    "RepoDigests": [
+      "ubuntu@sha256:9d6a8699fb5c9c39cf08a0871bd6219f0400981c570894cd8cbea30d3424a31f"
+    ],
+    "RepoTags": [
+      "ubuntu:latest"
+    ],
+    "SharedSize": -1,
+    "Size": 72776725,
+    "VirtualSize": 72776725
+  },
+  ...
+]
+```
+
+We get the gist. Interesting stuff to get into. It could be a security nightmare, right, the `sock` files? Well, yes, but actually no. Unix sockets are filesystem namespace files, which means you have to have the read/write access to perform operations on it and we can restrict access to it just by doing `chown`, `chmod` to it. Pretty neat!
