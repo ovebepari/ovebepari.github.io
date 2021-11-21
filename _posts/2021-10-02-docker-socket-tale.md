@@ -49,4 +49,4 @@ dovi@dovi-machine:~$ curl --unix-socket /var/run/docker.sock http://localhost/im
 ]
 ```
 
-We get the gist. Interesting stuff to get into. It could be a security nightmare, right, the `sock` files? Well, yes, but actually no. Unix sockets are filesystem namespace files, which means you have to have the read/write access to perform operations on it and we can restrict access to it just by doing `chown`, `chmod` to it. Pretty neat!
+We get the gist. Interesting stuff to get into. It could be a security nightmare, right, the `sock` files? Well, yes, but actually no. Unix sockets are filesystem namespaced files, which means you have to have the read/write access to perform operations on it and we can restrict access to it just by doing `chown`, `chmod` to it. Pretty neat!
