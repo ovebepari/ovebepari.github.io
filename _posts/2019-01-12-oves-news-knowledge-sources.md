@@ -20,12 +20,12 @@ I've decided that I'll stop sharing good stuff on social media and share a blog 
 >
 > <cite>- Engineering Gods</cite>
 
+- [Julia Evans's Blog - (How This-That-Computer Work)](https://jvns.ca/)
 - [Google Podcasts](https://podcasts.google.com/)
 - Twitter  [Follow Quality People]
 - Facebook [Follow Quality People]
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [Reddit](http://reddit.com/)
-- [Quora](http://quora.com/)
 - [Github Explore](https://github.com/explore)
 
 ## Engineering Blogs, Interesting Real Life Scenarios
@@ -52,6 +52,7 @@ I check them now and then. They also appear on HN, so, did I mention HN is enoug
 
 - [Mozilla Pocket](https://getpocket.com/explore/)
 - [Medium](https://medium.com/)
+- [Quora](http://quora.com/)
 - [Youth Opportunities](https://www.youthop.com/)
 
 ## Newsletters:
@@ -68,6 +69,6 @@ I check them now and then. They also appear on HN, so, did I mention HN is enoug
 
 ## Individual Blogs: 
 
-- [Julia Evans's Blog - (How This-That-Computer Work)](https://jvns.ca/)
 - Codeforces Blogs
+- A lot of articles, from here and there on the internet
 
