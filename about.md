@@ -16,22 +16,25 @@ Motto:
 
 
 <center>
-Do not ask your children to strive </br>
-- by William Martin </br>
-<br/>
-Do not ask your children </br>
-to strive for extraordinary lives. </br>
-Such striving may seem admirable, </br> 
-but it is the way of foolishness. </br>
-Help them instead to find the wonder </br>
-and the marvel of an ordianry life. </br>
-Show them the joy of tasting tomatoes, apples and pears. </br>
-Show them how to cry </br>
-when pets and people die. </br>
-Show them the infinite pleasure </br>
-in the touch of a hand. </br>
-And make the ordinary come alive for them. </br>
-The extraordinary will take care of itself. </br>
+<pre>
+Do not ask your children to strive
+- by William Martin 
+
+
+Do not ask your children 
+to strive for extraordinary lives. 
+Such striving may seem admirable,
+but it is the way of foolishness. 
+Help them instead to find the wonder 
+and the marvel of an ordianry life. 
+Show them the joy of tasting tomatoes, apples and pears. 
+Show them how to cry 
+when pets and people die. 
+Show them the infinite pleasure 
+in the touch of a hand. 
+And make the ordinary come alive for them. 
+The extraordinary will take care of itself. 
+</pre>
 </center>
 <br>
 
