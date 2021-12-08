@@ -7,7 +7,7 @@ title: About
 <img src="/post_images/ove.jpg">
 </p>
 
-I enjoy anything that stirs intellectual interest. I spend a lot of time on the internet. Learning abstraction layers in CS, one abstraction layer a year. I like System Programming, enjoy other people's design choices (UI, UX, Typography etc). Poetry and Sports will save us all one day!
+I enjoy anything that stirs intellectual interest. I spend a lot of time on the internet. Learning abstraction layers in CS, one abstraction layer a year. I like System Programming, enjoy other people's design choices (UI, UX, Typography, Architecture, Tech Stack etc). Poetry and Sports will save us all one day!
 
 Motto: 
 ![Favourite Quote: To leave the world a bit better, whether by a healthy child, a graden pathch, or a redeemed social condition; to know that even one life has breathed easier because you have lived - that is to have succeeded](/post_images/about/itmo.png){:.center-image}
@@ -16,22 +16,22 @@ Motto:
 
 
 <center>
-Do not ask your children to strive
-- by William Martin
+Do not ask your children to strive </br>
+- by William Martin </br>
 <br/>
-Do not ask your children
-to strive for extraordinary lives.
-Such striving may seem admirable, 
-but it is the way of foolishness.
-Help them instead to find the wonder
-and the marvel of an ordianry life.
-Show them the joy of tasting tomatoes, apples and pears.
-Show them how to cry
-when pets and people die.
-Show them the infinite pleasure
-in the touch of a hand.
-And make the ordinary come alive for them.
-The extraordinary will take care of itself.
+Do not ask your children </br>
+to strive for extraordinary lives. </br>
+Such striving may seem admirable, </br> 
+but it is the way of foolishness. </br>
+Help them instead to find the wonder </br>
+and the marvel of an ordianry life. </br>
+Show them the joy of tasting tomatoes, apples and pears. </br>
+Show them how to cry </br>
+when pets and people die. </br>
+Show them the infinite pleasure </br>
+in the touch of a hand. </br>
+And make the ordinary come alive for them. </br>
+The extraordinary will take care of itself. </br>
 </center>
 <br>
 
