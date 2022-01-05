@@ -18,7 +18,7 @@ Docker follows a client-server architechture. The docker cli binary that runs `d
 
 > When to build a daemon for a cli application?
 >
-> Docker has a daemon, Git Doesn't. Both are extreamly wonderful CLI applications.
+> Docker has a daemon, Git Doesn't ([There's a third party background service though, Dura](https://github.com/tkellogg/dura)). Both are extreamly wonderful CLI applications.
 
 *Docker server* exposes a socket file in unix systems to talk to the *docker client*. This socket file `/var/run/docker.sock` is INDEPENDENT, with appropriate READ/WRITE access, speaking in a language both the client and then server understand (Protocol), works as a bridge between them.
 
