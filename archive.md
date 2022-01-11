@@ -3,6 +3,11 @@ layout: page
 title: 'Archive'
 ---
 
+### DUETCS Public Archive:
+- ![DUETCS Notice Template: .doc](https://docs.google.com/document/d/1z4OiNqHZ7yYGKaTghCpNFmcokK_8kYx7/edit?usp=sharing&ouid=102631987328778928506&rtpof=true&sd=true)   
+- ![DUETCS Notice Template: .pdf](https://drive.google.com/file/d/1_CY75SmQBuxdkrmg7lRhrTobsOOGMcAq/view?usp=sharing)   
+
+### Executive Bodies:
 - <a href="https://drive.google.com/file/d/1sJz60PenY5rAfU5ki993zLudpBOOI8Ei/view?usp=sharing" target="_blank">Executive Committee 2021</a>
 - Committee 2020 was off due to Corona
 - <a href="https://drive.google.com/file/d/14bQzDd_7UeeA7cZEVQ4kBl-jz4L8ItnL/view?usp=sharing">Executive Committee 2019</a>
