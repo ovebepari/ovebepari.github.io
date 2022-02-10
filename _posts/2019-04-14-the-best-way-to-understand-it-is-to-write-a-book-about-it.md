@@ -1,10 +1,15 @@
 ---
 layout: post
 title: The Best Way to Understand It is to Write a Book about It - File Systems 
+description: Exploring file systems
+image: 
 comments: true
 categories: Linux|Systems
 location: DUET, Bangladesh
 ---
+
+
+Update: doing my undergrad thesis on filesystemsn now!
 
 Whenever something appears confusing, I interpret it as I'm about to learn this "thing", thus its kinda making sense and kinda not. Well I know a few verses of a poem, maybe not a poem:
 

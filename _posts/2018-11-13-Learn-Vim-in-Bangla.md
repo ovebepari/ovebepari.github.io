@@ -1,6 +1,8 @@
 ---
 layout: post
 title: এক ছুটির দিনে Vim শিখুন
+description: Learn vim in a weekend
+image: /post_images/2018/Nov/mode_identification.png
 comments: true
 categories: Bangla
 location: DUET, Bangladesh

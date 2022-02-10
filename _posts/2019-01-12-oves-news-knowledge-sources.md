@@ -1,6 +1,8 @@
 ---
 layout: post
 title: My News and Knowledge Sources
+description: Most of my news and knowledge sources
+image: /post_images/2021/Jun/stargazers.jpg
 comments: true
 categories: Personal
 location: DUET, Bangladesh

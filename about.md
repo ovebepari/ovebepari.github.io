@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Ove's Notes
 ---
 
 <p align="center"> 
