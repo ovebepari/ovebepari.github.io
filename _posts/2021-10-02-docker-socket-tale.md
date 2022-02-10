@@ -1,6 +1,8 @@
 ---
 layout: post
 title: A Tale on /var/run/docker.sock, from system architechture POV
+description: Exploring docker architecture
+image: {{ site.defaultpostimage }} 
 comments: true
 categories: Linux|Systems
 location: DUET, Bangladesh
