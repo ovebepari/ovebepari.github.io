@@ -28,6 +28,6 @@ author:
 defaultpostimage: /post_images/ove.jpg
 
 # For a global message in the head
-message: "I plan to contribute at least one commit to CURL project this year <del>2021</del> 2022, this is a reminder!"
+message: 
 
 exclude: []
