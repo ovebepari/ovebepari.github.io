@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Documenting my notes 
-description: Documenting my notes, non-censored, demonstrating how distracted I get from time to time!
+description: Documenting my notes, uncensored, demonstrating how distracted I get from time to time!
 image: /Random_writings/images/notes/01.jpg
 comments: false
 location: DUET, Bangladesh
 date: 05-04-2022
 ---
 
-Documenting my notes, non-censored, demonstrating how distracted I get from time to time!
+Documenting my notes, uncensored, demonstrating how distracted I get from time to time!
 
 <img src="/Random_writings/images/notes/07.jpg" alt="">
 <img src="/Random_writings/images/notes/12.jpg" alt="">
