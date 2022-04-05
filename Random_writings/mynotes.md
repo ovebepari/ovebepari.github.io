@@ -5,6 +5,7 @@ description: Documenting my notes, non-censored, demonstrating how distracted I 
 image: /Random_writings/images/notes/01.jpg
 comments: false
 location: DUET, Bangladesh
+date: 05-04-2022
 ---
 
 Documenting my notes, non-censored, demonstrating how distracted I get from time to time!
