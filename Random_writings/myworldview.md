@@ -20,7 +20,7 @@ I grew up as a silent, observant kid with mild cold-induced breathing difficulty
 It is impossible to unite us all. It is also impossible to teach ourselves to respect other groups (good job if you do). I do agree education is the only solution and we have to push as far as we can to ensure mutual respect.
 
 ### Individual vs Groups 
-People act differently in groups and their social values (good or bad) take over. Humans as individuals are full of biases and are fundamentally flawed. It is pretty tough to live with one, no matter how good / easy to live with one is.
+People act differently when in groups and their social values (good or bad) take over. Humans as individuals are full of biases and are fundamentally flawed. It is pretty tough to live with one, no matter how good / easy to live with one is.
 
 ### Work, Productivity
 The stone doesn't move itself. It is tough to get things done. Objects (and relationships) require daily maintenance. I clean my table everyday, god knows where all these dusts come from in every 3/4 hours.
@@ -29,4 +29,4 @@ The stone doesn't move itself. It is tough to get things done. Objects (and rela
 Good communication is tough! People are bad at communicating.
 
 ### Personal Philosophy
-I am an absurdist. The whole thing, existence, doesn't make sense to me. Everything seem ABSURD. I participate very less to the society. I am an individualist (recently noticing some drawbacks), liberal of course. But I don't care if my philosophy dies and other right wing or contrary philosophy takes over. We deserve hell right here on this earth, right now!
+I am an absurdist. The whole thing, existence, doesn't make sense to me. Everything seem ABSURD. I participate very less to the society. I am an individualist (recently noticing some drawbacks), liberal of course. But I don't care if my philosophy dies and other contrary philosophy or political party (which I consider very very bad) takes over. We deserve hell right here on this earth, right now!
