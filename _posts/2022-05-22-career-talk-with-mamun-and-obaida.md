@@ -3,7 +3,7 @@ layout: post
 title: Career talk session with Engineers from Meta and Amazon held
 comments: false
 description: Career talk online session with Abdullah Al Mamun and Abu Obaida
-image: /post_images/2021/Jun/stargazers.jpg
+image: /post_images/others/career_talk.png
 categories: Events
 location: DUET, Bangladesh
 author: Ove Bepari
