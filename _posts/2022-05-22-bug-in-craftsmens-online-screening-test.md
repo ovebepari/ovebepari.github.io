@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I might have found some bug in Craftmen's recent online screening test problemset! 
+title: I might have found some bug in Craftsmen's recent online screening test problemset! 
 description: The generated input for the participents might have been judged wrongly! 
 image: /post_images/2022/craftsmen_docker_artifacts.png
 comments: false
