@@ -8,7 +8,7 @@ categories: Interview-Experiences
 location: DUET, Bangladesh
 ---
 
-TLDR; <a href="https://craftsmenltd.com/">Craftsmen</a> asked us to find the maximum depth of a bracket sequence, provided sequence can be valid or invalid, however, our answers were checked with a code that only works for valid sequences. I can tell because they provided a docker image and I could see the server code!
+TLDR; <a href="https://craftsmenltd.com/">Craftsmen</a> asked us to find the maximum depth of a bracket sequence, provided sequence can be valid or invalid, however, our answers were checked with a code that only works for valid sequences. I can tell because we were provided a docker image and I could see the server code!
 
 I extracted the artifacts from the docker image:
 
@@ -17,7 +17,7 @@ I extracted the artifacts from the docker image:
 Craftsmen's problem statement as seen:
 > You need to find the maximum depth of nested angular brackets in this problem string. For example the maximum depth for this < <<>> <<>> > is three. The maximum depth of <<><><<<>>><<>>> is four. You need to write a small function to find out the maximum depth of the string as can be found in the problem property of this JSON object.
 
-Their server code which checks our answer, to find the maximum depth of a bracket sequence from the `problemUtils.ts` file: 
+The server code which checks our answer, to find the maximum depth of a bracket sequence from the `problemUtils.ts` file: 
 
 ```typescript
 export const maxDepth = (s: string): number => {
