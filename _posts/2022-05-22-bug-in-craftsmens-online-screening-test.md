@@ -4,7 +4,7 @@ title: I might have found some bug in Craftmen's recent online screening test pr
 description: The generated input for the participents might have been judged wrongly! 
 image: {{ site.defaultpostimage }} 
 comments: false
-categories: Interview Experiences 
+categories: Interview-Experiences 
 location: DUET, Bangladesh
 ---
 
