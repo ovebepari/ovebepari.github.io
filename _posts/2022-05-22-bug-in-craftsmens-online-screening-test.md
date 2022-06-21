@@ -39,7 +39,7 @@ export const maxDepth = (s: string): number => {
 ```
 Which is a solution of a famous leetcode problem <a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/">maximum nesting depth of the parentheses - Leetcode </a>, and it will work and only work for valid bracket/parentheses sequences, clearly stated on the leetcode problemset.
 
-The server generated bracket sequences, in a simple enough pattern, x opening brackets followed by exactly 6 closing brackets, repeated hundreds of times. The number of opening and closing brackets are not the same and it is not a valid bracket sequence! So our anwers were judged by a wrong server code!
+The server generated bracket sequences, in a simple enough pattern, x opening brackets (depending on user email) followed by exactly 6 closing brackets, repeated hundreds of times. The number of opening and closing brackets are not the same and it is not a valid bracket sequence! So our anwers were judged by a wrong server code!
 
 This server code fails for this corner case, <a href="https://www.typescriptlang.org/play?#code/AQYw9gdgzgLsC2BDAHgEQKYAcYAtgF5gAKKALmFgCcBLCAcwEpyIBXeAI3UoID5gBvAFDBgAG3RxwLCHEIAGANzDQkWBVnAA2gF0lygGZhuRcXGoFgi4OYA8FAHTj6uBdYDUbhgOUjq+4lCa1NoEhADkNmFesPaYLFA4RNQMrgD0qcBxCbR0wLjowOyUiCAA1hLWEHk4BbAlpT7A6KJQBX4BQSH44TxR3iID1v5EUjLAdjFOdLheoxqT6M44SoMi6cDlWDl5xWXAYP75mYiUi-lQ1FDAiBAAJupGOY1rGdRwnIanwKfwYABu2zewAA7jUqkC6BIruxEKIbiB0LdnupYmBMEQUo0AL7KHHKU4wFiUKpzJRYvTgaBgcSOMB0IgAIiQaCwuHIDOAbgQKAw2ESDJsgsFPAZDExQA"> "play here" </a>:
 ```
@@ -48,4 +48,4 @@ server ans: 5
 valid ans: 1
 ```
 
-I spent hours to pass this step 1, solving for corner cases, I emailed that there might be something wrong in the server code during the test, turned out I was correct. I got rejected today for taking a long time to solve these problems though! I had to guess the server might be expecting a solution for a valid string. 
+I spent hours to pass this step 1, solving for corner cases, I emailed that there might be something wrong in the server code during the test, turned out I was correct. I got rejected today for taking a long time to solve these problems though, I had to guess the server might be expecting a solution for a valid string!
