@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ambiguous Problem Statement at Craftsmen's Online Screening Test Sufferred Me! 
+title: Ambiguous Problem Statement at Craftsmen's Online Screening Test! 
 description: The generated input for the participents might have been judged wrongly or it was a wrong dataset! 
 image: /post_images/2022/craftsmen_docker_artifacts.png
 comments: false
