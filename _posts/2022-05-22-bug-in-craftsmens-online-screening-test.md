@@ -17,6 +17,43 @@ I extracted the artifacts from the docker image:
 Craftsmen's problem statement as seen:
 > You need to find the maximum depth of nested angular brackets in this problem string. For example the maximum depth for this < <<>> <<>> > is three. The maximum depth of <<><><<<>>><<>>> is four. You need to write a small function to find out the maximum depth of the string as can be found in the problem property of this JSON object.
 
+The server code that generates bracket sequences:
+
+```typescript
+export const getDeepNestedStringFromEmail = (email: string) => {
+  // const email = 'azad@gmail.com';
+  const base64Email = Buffer.alloc(30, email).toString('base64');
+  // console.log(base64Email);
+  let emailToNumber = 0;
+  for (let index = 0; index < base64Email.length; index++) {
+    emailToNumber += base64Email.charCodeAt(index);
+  }
+  // console.log(emailToNumber);
+
+  let value = emailToNumber;
+  let sum = 0;
+
+  while (value) {
+    sum += value % 10;
+    value = Math.floor(value / 10);
+  }
+
+  // console.log(sum);
+
+  let outputString = '';
+
+  for (let index = 0; index < emailToNumber; index++) {
+    if ((index + 1) % sum === 0) {
+      outputString = outputString + '>>>>>>';
+    } else {
+      outputString = outputString + '<';
+    }
+  }
+
+  return outputString;
+};
+```
+
 The server code which checks our answer, to find the maximum depth of a bracket sequence from the `problemUtils.ts` file: 
 
 ```typescript
