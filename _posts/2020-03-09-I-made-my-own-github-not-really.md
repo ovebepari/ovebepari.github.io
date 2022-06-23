@@ -3,7 +3,7 @@ layout: post
 title: I Made My Own GitHub, Not Really (It Only Lets You Clone)
 description: Trying to remake github, only close functionality
 image: /post_images/2020/Mar/gits_http_request.png
-comments: true
+comments: false
 categories: Linux|Systems
 location: DUET, Bangladesh
 ---

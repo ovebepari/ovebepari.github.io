@@ -3,11 +3,10 @@ layout: post
 title: The Best Way to Understand It is to Write a Book about It - File Systems 
 description: Exploring file systems
 image: {{ site.defaultpostimage }}
-comments: true
+comments: false
 categories: Linux|Systems
 location: DUET, Bangladesh
 ---
-
 
 Update: doing my undergrad thesis on filesystemsn now!
 
