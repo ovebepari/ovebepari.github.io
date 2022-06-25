@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ambiguous Problem Statement at Craftsmen's Online Screening Test! 
+title: Ambiguous Problem Statement at Craftsmen's Online Screening Test and wrong judgement algorithm! 
 description: The generated input for the participents might have been judged wrongly or it was a wrong dataset! 
 image: /post_images/2022/craftsmen_docker_artifacts.png
 comments: false
@@ -85,4 +85,10 @@ server ans: 5
 ans for valid sequences: 1
 ```
 
-It might have been because of the ambiguous problem statement. I spent hours to pass this step 1, solving for corner cases, I emailed that there might be something wrong in the server code or the problemset during the test. I got rejected today for taking a long time to solve these problems though, I had to guess the server might be expecting a solution for a valid string!
+I spent hours to pass this step 1, solving for corner cases, I emailed that there might be something wrong in the server code or the problemset during the test. I got rejected today for taking a long time to solve these problems though, I had to guess the server might be expecting a solution for a valid string!
+
+Update (24-June-2022): People debated that <<> can result in two if you define your max nesting depth that way in the programming community. For them, Tahsin Masrur vai has a corner case which the server fails to justify this debate. <>> results in 1 by the server.
+
+![Tahsis Masrur vai's comment](/post_images/2022/TahsinMasrur_comment.png){:.center-image}
+
+Cool.
