@@ -17,7 +17,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-admin
 
 author:
   name: 'ovebepari'
