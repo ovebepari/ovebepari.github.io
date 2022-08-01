@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  {% assign pageYear = page.date | date: "%Y" | minus: 2019 %}
+<!--
+  {% if pageYear < 0 %}
+    <p class="deprecation-notice">
+      <i class="fas fa-exclamation-triangle"></i>  This content has been written a long time
+      ago. As such, it might not reflect my current thoughts anymore. I keep this
+      page online because it might still contain valid information.
+  </p>
+  {% endif %}
+-->
+
+  
+  <h1 class="post-title">{{ page.title }}</h1>
+
+  <span class="post-date">
+    
+    {% if page.date != nil %}
+      <i class="fa fa-calendar"></i>
+      {{ page.date | date_to_string }}
+      
+      <span>&nbsp;</span>
+
+    {% endif %}
+
+
+    {% if post %}
+      {% assign categories = post.categories %}
+    {% else %}
+      {% assign categories = page.categories %}
+    {% endif %}
+  
+    {% if categories %}
+      <i class="fa fa-tags"></i>
+      {% for category in categories %}
+      <a class="category" href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+      {% endfor %}
+
+      <span>&nbsp;</span>
+
+    {%endif%}
+    
+
+    
+    {% if page.location %}
+      <i class="fa fa-map-marker"></i>
+      {{page.location}}
+    {% endif %}
+    
+</span>
+  {{ content }}
+</div>
+
+<!--
+	<div class="related">
+	  <h2>Related Posts</h2>
+	  <ul class="related-posts">
+		{% for post in site.related_posts limit:3 %}
+		  <li>
+			<h3>
+			  <a href="{{ post.url }}">
+				{{ post.title }}
+				<small>{{ post.date | date_to_string }}</small>
+			  </a>
+			</h3>
+		  </li>
+		{% endfor %}
+	  </ul>
+	</div>
+
+-->
