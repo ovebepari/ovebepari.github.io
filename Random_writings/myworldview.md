@@ -20,7 +20,7 @@ I grew up as a silent, observant kid with mild cold-induced breathing difficulty
 It is impossible to unite us all. It is also impossible to teach ourselves to respect other groups (good job if you do). I do agree education is the only solution and we have to push as far as we can to ensure mutual respect.
 
 ### Individual vs Groups 
-People act differently when in groups and their social values (good or bad) take over. Humans as individuals are full of biases and are fundamentally flawed. It is pretty tough to live with one, no matter how good / easy to live with one is.
+People act differently when in groups and their social values (good or bad) take over. Humans as individuals are full of biases and are fundamentally flawed. It is pretty tough to live with one, no matter how good / easy to live with one is. It might be true that there are 50% evil and 50% goodness in the world, but evil is more proactive and are spotted more often. There are some good in evil and some evil in good. Nothing is true black and white.
 
 ### Work, Productivity
 The stone doesn't move itself. It is tough to get things done. Objects (and relationships) require daily maintenance. I clean my table everyday, god knows where all these dusts come from in every 3/4 hours.
