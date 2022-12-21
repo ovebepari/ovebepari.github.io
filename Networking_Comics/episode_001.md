@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bangla Networking Comics - Episode 1
-comments: true
+comments: false
 location: DUET, Bangladesh
 ---
 
