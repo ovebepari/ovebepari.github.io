@@ -8,9 +8,6 @@ location: Munshiganj, Bangladesh
 date: 23-12-2022
 ---
 
-<img src="/Random_writings/images/kamrul.jpg" alt="A university athlete, playing football, dribbling">
-<center> <small>Sports and Poetry will save us all one day!</small> </center> 
-
 Cooking is fairly simple these days. The willingness to cook regularly is what we struggle with. And no one's cooking journey is interesting enough to read -- you decide to learn it, you put effort and watch some videos, you experiment and fail, and after a few days, voila, you can cook. My cooking story is the same too except maybe how I view cooking and the influences I have had along the way are worth writing about. 
 
 I never liked it much. It wasn't intellectually challenging and there was no novelty, same process on repeat, every goddamn day. But soon, Kamrul Islam, a friend, football and uni-mate from Sylhet, changed my perspective on cooking forever.
