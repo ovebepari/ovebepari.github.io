@@ -1,5 +1,3 @@
-Random_writings/images/kamrul.jpg
-
 ---
 layout: post
 title: My Cooking Story
