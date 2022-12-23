@@ -15,12 +15,12 @@ I never liked it much. It wasn't intellectually challenging and there was no nov
 I started to conserve more in my sophomore days. My family was struggling to provide me with 4k bdt per month, as always, so I started to cut expenses. In that process, Kamrul started to share his dorm room and bed with me, which he got six months earlier than us through his premium network. He loved the kitchen our dormitory offered!
 
 <img src="/Random_writings/images/kamrul.jpg" alt="Kamrul Islam Kamran">
-<center> <small>Pic: Kamrul Cooking!</small> </center> 
+<center> <small>Pic: Kamrul Cooking!</small> </center> </br>
 
 He'd often cook, but his process made me realize he wasn't just some ordinary guy cooking as a random activity of the day. He knew how many tablespoons of ghee and garlic were required for a beef recipe for 10 people and which ingredients to experiment with. He would chop veggies slowly. He'd stir his makings with utmost care. He'd taste the salt of his recipe like a lovely grandmother. He'd serve us if we were in a five-star restaurant. He'd enjoy every little compliment of his work like someone who just cooked for the first time for their family!
 
 <img src="/Random_writings/images/sabbir.jpg" alt="Khandoker Sabbir">
-<center> <small>Pic: Sabbir Reading!</small> </center> 
+<center> <small>Pic: Sabbir Reading!</small> </center> </br>
 
 Living with him, gradually, I started cooking too. A big Sylheti influence in my cooking first up. We were together for six months until I had my own dorm access. We would become roommates again in the final year, along with another cook, Khandokar Sabbir, a sportsman from Kushtia, a guy who cooked with the lowest of resources, with a completely opposite cooking style of Kamrul. Kamrul, me and Sabbir would announce our dorm room as a restaurant to our neighbours where every day was like a new festival with new recipes, pithas and whatnot. I soon would live the best six months of my life, food-wise.
 
