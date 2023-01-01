@@ -32,7 +32,9 @@ Living with him, gradually, I started cooking too. A big Sylheti influence in my
 
 Life got eventful when I left Kamrul's dorm space. I got my dorm room and soon covid started to spread everywhere and the lockdown started. I lived the first half of the lockdown in my village, playing football with kids, enjoying homemade food, bonding with the people, and sharing Facebook stories of the simplest of things life offered. And I lived the second half of the lockdown in Bhawal National Park, in Creative Conservation Alliance's turtle conservation facility where I volunteered. I lived there for almost all of 2021 with Fahim bhai and Komol da. The facility was ten minute's walk away from the highway and we all enjoyed our solitude, away from the hustle-bustle of the city.
 
-[pic of fahim bhai]
+<br>
+<img src="/Random_writings/images/fahim.jpg" alt="Fahim bhai">
+<center> <small>Pic: Fahim bhai, on the right, aug 2022</small> </center> <br>
 
 Fahim bhai was the facility manager. He was a did it all-seen it all kinda person and the ex-president of the BracU photography club back in the day. He had every possible life experience, and finally settled in the jungle, doing his bit to 'heal the world'. He had the poster of "Into the Wild (2007)" as his Facebook cover and it showed his views a little. Having all kinds of experiences, he did cook, for sure! He cooked his best recipe for the guests into the facility. He slowly danced if he was in the mood while cooking, from Chaiyaa Chaiyaa to Uptown funk, and the recipes always came out very very hot and spicy! His makings featured various spices, edible fragrances, some of which I didn't know. Guests always asked "who cooked?", praised, and rightly so! He intentionally took a little while to cook and it always paid off. I remember I collected fallen mangoes after the storm once and he made pickles, as nice as any other grandma would make.
 
@@ -40,7 +42,8 @@ Fahim bhai was the facility manager. He was a did it all-seen it all kinda perso
 <img src="/Random_writings/images/pickle.jpg" alt="Mangle Pickle">
 <center> <small>Pic: Mange Pickle, July-Aug, 2021</small> </center> <br>
 
+Komol da, on the other hand, was a very quick cook, a generalist from Moulovibajar, Sylhet,  a successor of Fahim bhai, who worked as an animal keeper at CCA. A peaceful person, always busy, keeping the facility together with his hard work, work ranging from cooking, building, repairing, electrical engineering and whatnot, a real-life Ruplal, the skills necessary to survive in the jungle, he had it all. He could finish twenty other chores while cooking breakfast!
 
-Komol da, on the other hand, was a very quick cook, a generalist from Moulovibajar, Sylhet, who worked as an animal keeper at CCA. A peaceful person, always busy, keeping the facility together with his hard work, work ranging from cooking, building, repairing, electrical engineering and whatnot, a real-life Ruplal, the skills necessary to survive in the jungle, he had it all. He could finish twenty other chores while cooking breakfast.
-
-[pic of komol da]
+<br>
+<img src="/Random_writings/images/komol.jpg" alt="Komol da">
+<center> <small>Pic: Komol da, © <a href="https://www.instagram.com/kkowshikk/">Kowshik Kiron</a></small> </center> <br>
