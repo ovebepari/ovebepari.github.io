@@ -62,7 +62,9 @@ My home was close enough to the university to visit during a break of one or two
 Women these days can spend a little free time and I am glad as a feminist that I can die seeing this barest of progress. Ending this quoting Marwa Kazi Muhammed:
 
 > Our mothers, sisters, and wives have been making bhortas, panta, maach er jhol and khichuri for as long as any of us can remember. And they have made it because they were expected to, because they were supposed to. Their cooking, their meals have been taken for granted. The slightest lack of salt or spice in any of them, even for one day, brings them an earful. The love, effort and intricacies of the dishes they make have been overlooked for centuries, because this is basic cooking, right? They are just supposed to be able to cook this, right?
+
 > Yesterday I was watching a video on Kishwar's journey and on her first day in the kitchen, the judges were so impressed by her that they asked her, "Where have you been all this while?" to which she tearfully replied, "Oh, you know, just at home."
+
 > They are all just at home, all our masterchefs. All this while they have just been at home, and now we know. And maybe, just maybe, we will appreciate what they cook a little more.
 
 Thank you.
