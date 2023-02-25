@@ -55,14 +55,3 @@ The extraordinary will take care of itself.
 </pre>
 </center>
 <br>
-
-
-
-Public Calendar: 
-<br>
-<center>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FDhaka&showNav=0&showPrint=0&showTabs=0&showCalendars=0&showTitle=0&src=b3ZlYmVwYXJpQGdtYWlsLmNvbQ&src=bWY1MDY0MzRkNmxxajFwZTE4MjluazVsdmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=azI1MDlxc2UyOHNycjNpNnZsanZoZmpiNnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZWgydDE2YzB2YmwxYXBxNmlwNjhtMzl2cHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4uYmQjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4uaXNsYW1pYyNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5&color=%23E67C73&color=%23C0CA33&color=%23E67C73&color=%2333B679&color=%23009688&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-</center>
-
-<br>
-<br>
