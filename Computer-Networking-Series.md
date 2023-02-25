@@ -2,7 +2,8 @@
 layout: page
 title: Networking Comics
 ---
-
+<br>
+<img src="/post_images/stare_networking_banner.jpeg" alt="a kid, staring, bathing in a village pond in munshiganj!">
 <br>
 
 <ul style="list-style: none;">
