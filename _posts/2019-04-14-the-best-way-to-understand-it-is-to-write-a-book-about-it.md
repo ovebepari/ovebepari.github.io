@@ -4,7 +4,7 @@ title: The Best Way to Understand It is to Write a Book about It - File Systems
 description: Exploring file systems
 image: {{ site.defaultpostimage }}
 comments: false
-categories: Linux|Systems
+categories: Linux-Systems
 location: DUET, Bangladesh
 ---
 
