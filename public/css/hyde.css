@@ -161,11 +161,10 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 64em) {
   .layout-reverse .content {
-    margin-left: 10%;
-    margin-right: 20%;
+    margin-left: 4rem;
+    margin-right: 22rem;
   }
 }
-
 
 
 /*
