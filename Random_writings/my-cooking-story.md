@@ -59,7 +59,7 @@ I am very glad that I got to know these people and inherit some of their attribu
 
 My home was close enough to the university to visit during a break of one or two days. And I often went. I always saw the women in our village doing their bit for their families. But only after I started cooking with ready-made spices and gas, I realized what these women were doing! When I was little, my mother took me to collect wood/bamboo spares and anything that could be ignited to cook and I climbed trees for fun and collected dead branches but it was no fun for my mother. Women did every layer of work, from collecting the woods, to collecting শাক from near green spaces to feed their families. They have been doing these in this region for centuries, without any acknowledgement. And above all that, cooking wasn't the only thing on their daily chores list. Women! 
 
-Women these days can spend a little free time and I am glad as a feminist that I can die seeing this barest of progress. Ending this quoting Marwa Kazi Muhammed:
+Women these days can spend a little free time and I am glad that I can die seeing this barest of progress. Ending this quoting Marwa Kazi Muhammed:
 
 > Our mothers, sisters, and wives have been making bhortas, panta, maach er jhol and khichuri for as long as any of us can remember. And they have made it because they were expected to, because they were supposed to. Their cooking, their meals have been taken for granted. The slightest lack of salt or spice in any of them, even for one day, brings them an earful. The love, effort and intricacies of the dishes they make have been overlooked for centuries, because this is basic cooking, right? They are just supposed to be able to cook this, right?
 
