@@ -3,10 +3,6 @@ layout: page
 title: About
 ---
 
-<p align="center"> 
-<img src="/post_images/ove.jpg">
-</p>
-
 I enjoy anything that stirs intellectual interest. I spend a lot of time on the internet. Learning abstraction layers in CS, one abstraction layer a year. I like System Programming, enjoy other people's design choices (UI, UX, Typography, Architecture, Tech Stack etc). Poetry and Sports will save us all one day!
 
 I cook, clean, photograph, document, extremely technical, low-maintenance, tongue-tied, non-judgemental, society-politics-religion-art-literature-economy aware, easy to live with kid that you'd forget I existed within days. 
