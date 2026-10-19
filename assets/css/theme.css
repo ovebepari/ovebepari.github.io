@@ -111,6 +111,7 @@
     justify-content: space-between;
     align-items: stretch;
     height: 40px;
+    pointer-events: auto;
   }
 
   .mobile-nav .nav-brand {
@@ -471,34 +472,79 @@
 
 .site-footer {
   border-top: 0.5px solid var(--hairline);
-  padding: 32px 24px;
-  text-align: center;
+  position: relative;
+  overflow: hidden;
+  min-height: 440px;
+  padding: 0;
 }
 
+/* Chaos background layer — fills entire footer */
+.footer-chaos {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.chaos-icon {
+  position: absolute;
+  stroke: var(--hairline);
+  stroke-width: 0.6;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  opacity: 0.75;
+}
+
+/* Content layer sits on top */
 .footer-inner {
+  position: relative;
+  z-index: 1;
   max-width: var(--max-width);
   margin: 0 auto;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 16px;
+  justify-content: center;
+  gap: 28px;
+  padding: 80px 24px 60px;
+  min-height: 440px;
+  text-align: center;
 }
 
+/* Statement */
+.footer-statement {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--muted);
+  letter-spacing: -0.01em;
+  line-height: 1.4;
+  margin: 0;
+  max-width: 400px;
+}
+
+/* Social links */
 .footer-links {
   display: flex;
-  gap: 20px;
+  gap: 24px;
   align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .footer-links a {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 500;
   color: var(--muted);
   letter-spacing: 0.02em;
   transition: color 0.15s ease;
   border-bottom: none;
   display: flex;
   align-items: center;
-  gap: 5px;
+  gap: 6px;
 }
 
 .footer-links a:hover {
@@ -507,14 +553,47 @@
 }
 
 .footer-links a svg {
-  width: 14px;
-  height: 14px;
+  width: 16px;
+  height: 16px;
+  stroke: currentColor;
+  stroke-width: 0.5;
+  fill: none;
+}
+
+.footer-links a svg path {
+  fill: currentColor;
+  stroke: none;
 }
 
 .footer-copy {
-  font-size: 0.7rem;
+  font-size: 0.75rem;
+  font-weight: 500;
   color: var(--muted);
   letter-spacing: 0.02em;
+}
+
+@media (max-width: 640px) {
+  .site-footer {
+    min-height: 300px;
+  }
+
+  .footer-inner {
+    padding: 60px 16px 40px;
+    min-height: 300px;
+  }
+
+  .chaos-icon {
+    width: 40px;
+    height: 40px;
+  }
+
+  .footer-statement {
+    font-size: 1rem;
+  }
+
+  .footer-links {
+    gap: 16px;
+  }
 }
 
 

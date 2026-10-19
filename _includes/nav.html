@@ -1,7 +1,5 @@
-<!-- Nav Backdrop -->
+<!-- Nav Backdrop (desktop only) -->
 <div class="nav-backdrop">
-
-  <!-- Desktop Navigation -->
   <nav class="site-nav">
     <a class="nav-brand" href="{{ '/' }}">{{ site.title }}</a>
     <a class="nav-item" href="{{ '/' }}">
@@ -18,16 +16,15 @@
     </a>
     <a class="nav-cta" href="https://github.com/ovebepari" target="_blank">GitHub ↗</a>
   </nav>
+</div>
 
-  <!-- Mobile Navigation -->
-  <div class="mobile-nav">
-    <a class="nav-brand" href="{{ '/' }}">{{ site.title }}</a>
-    <div class="mobile-nav-right">
-      <a class="nav-cta" href="https://github.com/ovebepari" target="_blank">GitHub</a>
-      <button class="mobile-nav-toggle" onclick="document.getElementById('mobile-menu').classList.toggle('open')">Menu</button>
-    </div>
+<!-- Mobile Navigation (outside backdrop so pointer-events work) -->
+<div class="mobile-nav">
+  <a class="nav-brand" href="{{ '/' }}">{{ site.title }}</a>
+  <div class="mobile-nav-right">
+    <a class="nav-cta" href="https://github.com/ovebepari" target="_blank">GitHub</a>
+    <button class="mobile-nav-toggle" onclick="document.getElementById('mobile-menu').classList.toggle('open')">Menu</button>
   </div>
-
 </div>
 
 <div class="mobile-menu" id="mobile-menu">
