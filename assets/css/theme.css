@@ -8,15 +8,27 @@
    Navigation
    =========================== */
 
-.site-nav {
+.nav-backdrop {
   position: fixed;
-  top: 20px;
-  left: 50%;
-  transform: translateX(-50%);
+  top: 0;
+  left: 0;
+  right: 0;
   z-index: 100;
+  padding: 16px 0;
+  pointer-events: none;
+}
+
+.site-nav {
   display: flex;
   align-items: stretch;
-  height: 40px;
+  height: 44px;
+  justify-content: center;
+  margin: 0 auto;
+  width: fit-content;
+  background-color: var(--background);
+  padding: 5px;
+  border-radius: 2px;
+  pointer-events: auto;
 }
 
 .site-nav a {

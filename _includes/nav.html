@@ -1,29 +1,35 @@
-<!-- Desktop Navigation -->
-<nav class="site-nav">
-  <a class="nav-brand" href="{{ '/' }}">{{ site.title }}</a>
-  <a class="nav-item" href="{{ '/' }}">
-    <span>Blog</span>
-  </a>
-  <a class="nav-item" href="/about/">
-    <span>About</span>
-  </a>
-  <a class="nav-item" href="/essays/">
-    <span>Essays</span>
-  </a>
-  <a class="nav-item" href="https://ovebepari.github.io/photography/" target="_blank">
-    <span>Photography ↗</span>
-  </a>
-  <a class="nav-cta" href="https://github.com/ovebepari" target="_blank">GitHub ↗</a>
-</nav>
+<!-- Nav Backdrop -->
+<div class="nav-backdrop">
 
-<!-- Mobile Navigation -->
-<div class="mobile-nav">
-  <a class="nav-brand" href="{{ '/' }}">{{ site.title }}</a>
-  <div class="mobile-nav-right">
-    <a class="nav-cta" href="https://github.com/ovebepari" target="_blank">GitHub</a>
-    <button class="mobile-nav-toggle" onclick="document.getElementById('mobile-menu').classList.toggle('open')">Menu</button>
+  <!-- Desktop Navigation -->
+  <nav class="site-nav">
+    <a class="nav-brand" href="{{ '/' }}">{{ site.title }}</a>
+    <a class="nav-item" href="{{ '/' }}">
+      <span>Blog</span>
+    </a>
+    <a class="nav-item" href="/about/">
+      <span>About</span>
+    </a>
+    <a class="nav-item" href="/essays/">
+      <span>Essays</span>
+    </a>
+    <a class="nav-item" href="https://ovebepari.github.io/photography/" target="_blank">
+      <span>Photography ↗</span>
+    </a>
+    <a class="nav-cta" href="https://github.com/ovebepari" target="_blank">GitHub ↗</a>
+  </nav>
+
+  <!-- Mobile Navigation -->
+  <div class="mobile-nav">
+    <a class="nav-brand" href="{{ '/' }}">{{ site.title }}</a>
+    <div class="mobile-nav-right">
+      <a class="nav-cta" href="https://github.com/ovebepari" target="_blank">GitHub</a>
+      <button class="mobile-nav-toggle" onclick="document.getElementById('mobile-menu').classList.toggle('open')">Menu</button>
+    </div>
   </div>
+
 </div>
+
 <div class="mobile-menu" id="mobile-menu">
   <a href="{{ '/' }}">Blog</a>
   <a href="/about/">About</a>
