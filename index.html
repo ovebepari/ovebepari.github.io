@@ -3,21 +3,31 @@ layout: default
 title: Oves Notes - Ove Bepari
 ---
 
-<img src="/post_images/the_stare.jpeg" alt="a security guard and a sitting passer by, both sitting, staring at the camera, gurad in on the phone!">
+<div class="home-hero">
+  <h1>{{ site.title }}</h1>
+  <p class="lead">{{ site.description }}</p>
+</div>
 
-</br>
-<small>This is the tech front, for my literary writings and thoughts, move to <a href="/essays/" style="text-decoration:underline; margin:0px;">Writings</a></small>
+<p class="section-intro">
+  This is the tech front. For literary writings and thoughts, head to <a href="/essays/" style="border-bottom: 1px solid var(--hairline);">Essays</a>.
+</p>
+<hr>
 
-<!-- <h3>Pick a Category</h3> -->
+<div style="margin-top: 2.5rem;"></div>
 
 {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="{{ category_name | slugize }}">
-    <h3 class="category-head">{{ category_name }}</h3>
-    <ul>
-      {% for post in site.categories[category_name] %}
-          <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
-      {% endfor %}
+    <div class="category-section" id="{{ category_name | slugize }}">
+      <h3 class="category-head"><a href="/categories/#{{ category_name | slugify }}">{{ category_name }}</a></h3>
+      <ul class="post-list">
+        {% for post in site.categories[category_name] %}
+          <li>
+            <a class="post-list-item" href="{{ site.baseurl }}{{ post.url }}">
+              <span class="post-list-title">{{ post.title }}</span>
+              <span class="post-list-date">{{ post.date | date: "%b %Y" }}</span>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
     </div>
-    </ul>
 {% endfor %}

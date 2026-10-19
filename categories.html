@@ -1,0 +1,27 @@
+---
+layout: default
+title: Categories
+permalink: /categories/
+---
+
+<div class="home-hero" style="padding: 24px 0 40px;">
+  <h1>Categories</h1>
+  <p class="lead">All posts organized by topic</p>
+</div>
+
+{% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <div class="category-section" id="{{ category_name | slugify }}">
+    <h3 class="category-head">{{ category_name }} <span style="font-weight: 400;">({{ category[1].size }})</span></h3>
+    <ul class="post-list">
+      {% for post in site.categories[category_name] %}
+        <li>
+          <a class="post-list-item" href="{{ site.baseurl }}{{ post.url }}">
+            <span class="post-list-title">{{ post.title }}</span>
+            <span class="post-list-date">{{ post.date | date: "%b %d, %Y" }}</span>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endfor %}

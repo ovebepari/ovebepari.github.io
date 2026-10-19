@@ -2,7 +2,7 @@
 layout: post
 title: I Made My Own GitHub, Not Really (It Only Lets You Clone)
 description: Trying to remake github, only close functionality
-image: /post_images/2020/Mar/gits_http_request.png
+image: /assets/images/2020/Mar/gits_http_request.png
 comments: false
 categories: Linux-Systems
 location: DUET, Bangladesh
@@ -14,7 +14,7 @@ GitHub is HUGE too, too many constrains, user authentication, inter-GitHub cloni
 
 I used `python3 flask` on the backend. I ran a local web server with `python3 -m http.server` and checked if I could detect any requests sent from the **Git CLI** with this command: `git clone http://0.0.0.0:8000`. And it did surprisingly.
 
-![Gits HTTP Request to the Server](/post_images/2020/Mar/gits_http_request.png){:.center-image}
+![Gits HTTP Request to the Server](/assets/images/2020/Mar/gits_http_request.png){:.center-image}
 
 And our Git CLI's HTTP request found on the **server log** is `GET /info/refs?service=git-upload-pack HTTP/1.1`. It's a GET request on the `/info/` directory possible inside `/.git/` directory. Everything is self-explanatory except that `git-upload-pack` keyword, what's that? Let's Google then.
 
@@ -26,10 +26,10 @@ The Smart HTTP requires CGI programming which can respond to `git push` as well.
 
 I coded my version of GitHub with Dumb HTTP protocol (only `git clone` support without authentication) that just requires a basic HTTP Server serving from the `.git/` folder within a repository, with some minor tweaks, here: <a href="https://github.com/ovebepari/Git_Clone">GitHub Clone - Ovebepari</a>. Here are some screen-shots.
 
-![Githubclone login](/post_images/2020/Mar/gitclone_one.png){:.center-image} <br>
-![Githubclone dashboard](/post_images/2020/Mar/gitclone_two.png){:.center-image} <br>
-![Githubclone a repo](/post_images/2020/Mar/gitclone_three.png){:.center-image} <br>
-![Githubclone cloningdd](/post_images/2020/Mar/gitclone_four.png){:.center-image}
+![Githubclone login](/assets/images/2020/Mar/gitclone_one.png){:.center-image} <br>
+![Githubclone dashboard](/assets/images/2020/Mar/gitclone_two.png){:.center-image} <br>
+![Githubclone a repo](/assets/images/2020/Mar/gitclone_three.png){:.center-image} <br>
+![Githubclone cloningdd](/assets/images/2020/Mar/gitclone_four.png){:.center-image}
 <center> <small>The clone button spawns a basic HTTP web server</small> </center> <br>
 
 A full-fledged server that supports `git push` too would take a bit of CGI programming. Can't wait to get on to that as well.

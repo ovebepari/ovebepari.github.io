@@ -8,7 +8,7 @@ I enjoy anything that stirs intellectual interest. I spend a lot of time on the 
 I cook, clean, photograph, document, extremely technical, low-maintenance, tongue-tied, non-judgemental, society-politics-religion-art-literature-economy aware, easy to live with kid that you'd forget I existed within days. 
 
 Motto: 
-![Favourite Quote: To leave the world a bit better, whether by a healthy child, a graden pathch, or a redeemed social condition; to know that even one life has breathed easier because you have lived - that is to have succeeded](/post_images/about/itmo.png){:.center-image}
+![Favourite Quote: To leave the world a bit better, whether by a healthy child, a graden pathch, or a redeemed social condition; to know that even one life has breathed easier because you have lived - that is to have succeeded](/assets/images/about/itmo.png){:.center-image}
 <center> <small>Image Taken from http://news.ifmo.ru/en/</small> </center> <br>
 
 

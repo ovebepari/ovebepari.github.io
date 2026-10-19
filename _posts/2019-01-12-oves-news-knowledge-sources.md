@@ -2,7 +2,7 @@
 layout: post
 title: My News and Knowledge Sources
 description: Most of my news and knowledge sources
-image: /post_images/2021/Jun/stargazers.jpg
+image: /assets/images/2021/Jun/stargazers.jpg
 comments: false
 categories: Personal
 location: DUET, Bangladesh
@@ -10,7 +10,7 @@ location: DUET, Bangladesh
 
 I've decided that I'll stop sharing good stuff on social media and share a blog stating my sources of where I get my news/knowledge from instead. Interested people will sneak their way through to good things. Also this will be my first hit point when I'll wander around on the internet!
 
-![Stargazers](/post_images/2021/Jun/stargazers.jpg){:.center-image}
+![Stargazers](/assets/images/2021/Jun/stargazers.jpg){:.center-image}
 <center> <small>Image: Google</small> </center> <br>
 
 

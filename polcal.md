@@ -2,7 +2,7 @@
 layout: post
 title: Political Calendar 
 description: Bangladesh's political calendar and events, all in one place
-image: /Random_writings/images/political_leader.jpg
+image: /assets/images/writings/political_leader.jpg
 comments: false
 location: Dhaka, Bangladesh
 date: 13-08-2023

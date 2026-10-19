@@ -2,7 +2,7 @@
 layout: post
 title: Ambiguous Problem Statement at Craftsmen's Online Screening Test and wrong judgement algorithm! 
 description: The generated input for the participents might have been judged wrongly or it was a wrong dataset! 
-image: /post_images/2022/craftsmen_docker_artifacts.png
+image: /assets/images/2022/craftsmen_docker_artifacts.png
 comments: false
 categories: Interview-Experiences 
 location: DUET, Bangladesh
@@ -12,7 +12,7 @@ TLDR; 20th June, 2022; <a href="https://craftsmenltd.com/">Craftsmen</a> asked u
 
 I extracted the artifacts from the docker image:
 
-![Craftmen's docker artifacts](/post_images/2022/craftsmen_docker_artifacts.png){:.center-image}
+![Craftmen's docker artifacts](/assets/images/2022/craftsmen_docker_artifacts.png){:.center-image}
 
 Craftsmen's problem statement as seen:
 > You need to find the maximum depth of nested angular brackets in this problem string. For example the maximum depth for this < <<>> <<>> > is three. The maximum depth of <<><><<<>>><<>>> is four. You need to write a small function to find out the maximum depth of the string as can be found in the problem property of this JSON object.
@@ -89,6 +89,6 @@ I spent hours to pass this step 1, solving for corner cases, I emailed that ther
 
 Update (24-June-2022): People debated that <<> can result in two if you define your max nesting depth that way in the programming community. For them, Tahsin Masrur vai has a corner case which the server fails to justify this debate. <>> results in 1 by the server.
 
-![Tahsis Masrur vai's comment](/post_images/2022/TahsinMasrur_comment.png){:.center-image}
+![Tahsis Masrur vai's comment](/assets/images/2022/TahsinMasrur_comment.png){:.center-image}
 
 Cool.

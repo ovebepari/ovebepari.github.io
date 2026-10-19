@@ -24,7 +24,7 @@ author:
   twitter: "ovebepari"
 
 # Post related global variables
-defaultpostimage: /post_images/ove.jpg
+defaultpostimage: /assets/images/ove.jpg
 
 # For a global message in the head
 message: 

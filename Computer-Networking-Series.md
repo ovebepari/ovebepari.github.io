@@ -2,11 +2,24 @@
 layout: page
 title: Networking Comics
 ---
-<br>
-<img src="/post_images/rickshaw-walla-adda.jpeg" alt="a few rickshaw-wallas, enjoying their free time, playing ludo!">
-<br>
 
-<ul style="list-style: none;">
-	<li> Episode 001 » <a href="/Networking_Comics/episode_001/" target="_blank"> Intro to HTTP Requests</a></li>
-	<li> Episode 002 » <a href="/Networking_Comics/episode_002/" target="_blank">Intro to Abstraction Layers</a></li>
+<div class="img-frame">
+  <img src="/assets/images/rickshaw-walla-adda.jpeg" alt="a few rickshaw-wallas, enjoying their free time, playing ludo!">
+</div>
+
+<ul class="post-list">
+  <li>
+    <a class="post-list-item" href="/Networking_Comics/episode_001/" target="_blank">
+      <span class="post-list-number">01</span>
+      <span class="post-list-title">Intro to HTTP Requests</span>
+      <span class="post-list-date">→</span>
+    </a>
+  </li>
+  <li>
+    <a class="post-list-item" href="/Networking_Comics/episode_002/" target="_blank">
+      <span class="post-list-number">02</span>
+      <span class="post-list-title">Intro to Abstraction Layers</span>
+      <span class="post-list-date">→</span>
+    </a>
+  </li>
 </ul>

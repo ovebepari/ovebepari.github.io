@@ -2,13 +2,15 @@
 layout: post
 title: How I view the world now 
 description: My thoughts on how I veiw the world now 
-image: "/Random_writings/images/conflict.jpeg"
+image: "/assets/images/writings/conflict.jpeg"
 comments: false
 location: DUET, Bangladesh
 date: 01-04-2022
 ---
 
-<img src="/Random_writings/images/conflict.jpeg" alt="Two kids just playing"> 
+<div class="img-frame">
+  <img src="/assets/images/writings/conflict.jpeg" alt="Two kids just playing">
+</div>
 <center> <small>Image &copy; Me, Munshinganj, Dhaka, October-2021</small> </center> <br>
 
 I grew up as a silent, observant kid with mild cold-induced breathing difficulty. I navigated poverty, education, society in a non-proactive manner. It allocated me even more time to analyze most events in enormous details. I am almost done with my undergrads now, after years of noticing my own biases and questioning my own stances and beliefs, this is how I veiw the world now.

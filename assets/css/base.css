@@ -1,0 +1,348 @@
+/*
+ * Base Design System
+ * Inspired by f13.com — ultra-minimal, editorial, black/white/gold
+ */
+
+/* ===========================
+   CSS Custom Properties
+   =========================== */
+
+:root {
+  --background: #fff;
+  --foreground: #000;
+  --muted: #8c8c8c;
+  --hairline: #c8c8c8;
+  --surface-active: #f0f0f0;
+  --surface-inset: #f5f5f5;
+  --accent: #FFCF22;
+  --accent-hover: #FFDC5E;
+  --disabled: #d9d9d9;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+  --max-width: 720px;
+  --nav-height: 56px;
+}
+
+
+/* ===========================
+   Reset
+   =========================== */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: var(--font-sans);
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--foreground);
+  background-color: var(--background);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+
+/* ===========================
+   Typography
+   =========================== */
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500;
+  line-height: 1.2;
+  color: var(--foreground);
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+}
+
+h2 {
+  font-size: 1.35rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+h4, h5, h6 {
+  font-size: 0.95rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  color: var(--foreground);
+}
+
+strong {
+  font-weight: 600;
+  color: var(--foreground);
+}
+
+small {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+
+/* ===========================
+   Links
+   =========================== */
+
+a {
+  color: var(--foreground);
+  text-decoration: none;
+  transition: color 0.15s ease, opacity 0.15s ease;
+}
+
+a:hover,
+a:focus {
+  opacity: 0.6;
+}
+
+/* External links subtle underline */
+a[href^="http"] {
+  border-bottom: 1px solid var(--hairline);
+}
+
+a[href^="http"]:hover {
+  border-bottom-color: var(--foreground);
+}
+
+
+/* ===========================
+   Lists
+   =========================== */
+
+ul, ol, dl {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  padding-left: 1.25rem;
+}
+
+li {
+  margin-bottom: 0.35rem;
+}
+
+dt {
+  font-weight: 600;
+}
+
+dd {
+  margin-bottom: 0.5rem;
+  margin-left: 0;
+}
+
+
+/* ===========================
+   Code
+   =========================== */
+
+code, pre {
+  font-family: var(--font-mono);
+}
+
+code {
+  padding: 0.15em 0.4em;
+  font-size: 0.85em;
+  color: var(--foreground);
+  background-color: var(--surface-inset);
+  border: 0.5px solid var(--hairline);
+  border-radius: 3px;
+}
+
+pre {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  padding: 1.25rem;
+  font-size: 0.82rem;
+  line-height: 1.55;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: var(--surface-inset);
+  border: 0.5px solid var(--hairline);
+  border-radius: 0;
+}
+
+pre code {
+  padding: 0;
+  font-size: 100%;
+  color: inherit;
+  background-color: transparent;
+  border: none;
+}
+
+/* Syntax highlighting container */
+.highlight {
+  margin-bottom: 1.5rem;
+}
+
+.highlight pre {
+  margin-bottom: 0;
+}
+
+
+/* ===========================
+   Blockquotes
+   =========================== */
+
+blockquote {
+  padding: 0.75rem 1.25rem;
+  margin: 1.5rem 0;
+  color: var(--muted);
+  border-left: 2px solid var(--accent);
+  font-style: italic;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+
+/* ===========================
+   Images
+   =========================== */
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1.25rem;
+  border-radius: 0;
+  border: 0.5px solid var(--hairline);
+}
+
+
+/* ===========================
+   Tables
+   =========================== */
+
+table {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 0.5px solid var(--hairline);
+  text-align: left;
+  font-size: 0.9rem;
+}
+
+th {
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+}
+
+tbody tr:hover {
+  background-color: var(--surface-inset);
+}
+
+
+/* ===========================
+   Horizontal Rules
+   =========================== */
+
+hr {
+  position: relative;
+  margin: 2.5rem 0;
+  border: 0;
+  border-top: 0.5px solid var(--hairline);
+}
+
+
+/* ===========================
+   Miscellaneous
+   =========================== */
+
+abbr {
+  font-size: 85%;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+abbr[title] {
+  cursor: help;
+  border-bottom: 0.5px dotted var(--hairline);
+}
+
+::selection {
+  background-color: var(--accent);
+  color: var(--foreground);
+}
+
+.lead {
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.message {
+  margin-bottom: 1.5rem;
+  padding: 1rem 1.25rem;
+  color: var(--foreground);
+  background-color: var(--surface-inset);
+  border: 0.5px solid var(--hairline);
+  font-size: 0.9rem;
+}
+
+.center-image {
+  margin: 0 auto;
+  display: block;
+}
+
+.deprecation-notice {
+  background-color: var(--accent);
+  color: var(--foreground);
+  font-size: 0.85rem;
+  line-height: 1.4;
+  margin-bottom: 1.5rem;
+  padding: 0.75rem 1rem;
+  border: 0.5px solid var(--hairline);
+}
+
+/* Responsive youtube video container */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

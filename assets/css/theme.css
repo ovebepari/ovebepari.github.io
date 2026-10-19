@@ -1,0 +1,745 @@
+/*
+ * F13-inspired Theme
+ * Replaces Hyde sidebar layout with centered top-nav, editorial design
+ */
+
+
+/* ===========================
+   Navigation
+   =========================== */
+
+.site-nav {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 100;
+  display: flex;
+  align-items: stretch;
+  height: 40px;
+}
+
+.site-nav a {
+  display: flex;
+  align-items: center;
+  border: 0.5px solid var(--hairline);
+  background-color: var(--background);
+  font-size: 0.75rem;
+  line-height: 1.28;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  transition: background-color 0.15s ease;
+}
+
+.site-nav a:hover {
+  background-color: var(--surface-inset);
+  opacity: 1;
+}
+
+/* No double borders between adjacent items */
+.site-nav a + a {
+  border-left: none;
+}
+
+.nav-brand {
+  padding: 0 16px;
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: -0.01em;
+  border: 0.5px solid var(--hairline);
+}
+
+.nav-item {
+  padding: 0 16px;
+  justify-content: space-between;
+  min-width: 100px;
+}
+
+.nav-item-count {
+  font-size: 0.55rem;
+  color: var(--muted);
+  margin-left: 12px;
+}
+
+.nav-cta {
+  background-color: var(--accent) !important;
+  padding: 0 18px;
+  font-weight: 500;
+}
+
+.nav-cta:hover {
+  background-color: var(--accent-hover) !important;
+}
+
+/* Mobile nav */
+.mobile-nav {
+  display: none;
+}
+
+.mobile-menu {
+  display: none;
+}
+
+.mobile-nav-toggle {
+  display: none;
+}
+
+@media (max-width: 640px) {
+  .site-nav {
+    display: none;
+  }
+
+  .mobile-nav {
+    display: flex;
+    position: fixed;
+    top: 8px;
+    left: 8px;
+    right: 8px;
+    z-index: 100;
+    justify-content: space-between;
+    align-items: stretch;
+    height: 40px;
+  }
+
+  .mobile-nav .nav-brand {
+    display: flex;
+    align-items: center;
+    padding: 0 14px;
+    background-color: var(--background);
+  }
+
+  .mobile-nav-right {
+    display: flex;
+    align-items: stretch;
+  }
+
+  .mobile-nav-right a {
+    display: flex;
+    align-items: center;
+    border: 0.5px solid var(--hairline);
+    background-color: var(--background);
+    font-size: 0.75rem;
+    letter-spacing: 0.02em;
+    padding: 0 14px;
+    transition: background-color 0.15s ease;
+  }
+
+  .mobile-nav-right a + a {
+    border-left: none;
+  }
+
+  .mobile-nav-right a:hover {
+    opacity: 1;
+    background-color: var(--surface-inset);
+  }
+
+  .mobile-nav-right .nav-cta {
+    background-color: var(--accent) !important;
+  }
+
+  .mobile-nav-toggle {
+    display: flex;
+    align-items: center;
+    border: 0.5px solid var(--hairline);
+    border-left: none;
+    background-color: var(--background);
+    font-size: 0.75rem;
+    letter-spacing: 0.02em;
+    padding: 0 14px;
+    cursor: pointer;
+    font-family: var(--font-sans);
+    transition: background-color 0.15s ease;
+  }
+
+  .mobile-nav-toggle:hover {
+    background-color: var(--surface-inset);
+  }
+
+  /* Collapsible mobile menu */
+  .mobile-menu {
+    display: none;
+    position: fixed;
+    top: 48px;
+    left: 8px;
+    right: 8px;
+    z-index: 99;
+    background-color: var(--background);
+    border: 0.5px solid var(--hairline);
+    flex-direction: column;
+  }
+
+  .mobile-menu.open {
+    display: flex;
+  }
+
+  .mobile-menu a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 14px;
+    font-size: 0.8rem;
+    letter-spacing: 0.02em;
+    border-bottom: 0.5px solid var(--hairline);
+    transition: background-color 0.15s ease;
+  }
+
+  .mobile-menu a:last-child {
+    border-bottom: none;
+  }
+
+  .mobile-menu a:hover {
+    background-color: var(--surface-inset);
+    opacity: 1;
+  }
+}
+
+
+/* ===========================
+   Main Layout
+   =========================== */
+
+.site-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
+  max-width: var(--max-width);
+  width: 100%;
+  margin: 0 auto;
+  padding: 120px 24px 80px;
+}
+
+@media (max-width: 640px) {
+  .content {
+    padding: 80px 16px 60px;
+  }
+}
+
+
+/* ===========================
+   Homepage
+   =========================== */
+
+.home-hero {
+  text-align: center;
+  padding: 40px 0 60px;
+  border-bottom: 0.5px solid var(--hairline);
+  margin-bottom: 48px;
+}
+
+.home-hero h1 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  margin-bottom: 10px;
+}
+
+.home-hero .lead {
+  font-size: 0.85rem;
+  max-width: 380px;
+  margin: 0 auto;
+  line-height: 1.45;
+}
+
+.home-photo {
+  max-width: 100%;
+  margin: 0 auto 32px;
+  border: 0.5px solid var(--hairline);
+  border-radius: 0;
+}
+
+/* Category sections on homepage */
+.category-section {
+  margin-bottom: 32px;
+}
+
+.category-head {
+  font-size: 0.7rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--muted);
+  margin-bottom: 12px;
+  margin-top: 0;
+  padding-bottom: 8px;
+  border-bottom: 0.5px solid var(--hairline);
+}
+
+.category-head a {
+  color: var(--muted);
+  transition: color 0.15s ease;
+}
+
+.category-head a:hover {
+  color: var(--foreground);
+  opacity: 1;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-list li {
+  margin: 0;
+  border-bottom: 0.5px solid var(--hairline);
+}
+
+.post-list li:last-child {
+  border-bottom: none;
+}
+
+.post-list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+  gap: 16px;
+  border-bottom: none !important;
+}
+
+.post-list-item::before {
+  content: '—';
+  color: var(--hairline);
+  font-size: 0.8rem;
+  flex-shrink: 0;
+}
+
+.post-list-item:hover {
+  opacity: 1;
+}
+
+.post-list-item .post-list-title {
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: var(--foreground);
+  transition: color 0.15s ease;
+  flex: 1;
+}
+
+.post-list-item:hover .post-list-title {
+  color: var(--muted);
+}
+
+.post-list-item .post-list-date {
+  font-size: 0.7rem;
+  color: var(--muted);
+  white-space: nowrap;
+  letter-spacing: 0.02em;
+  flex-shrink: 0;
+}
+
+.post-list-item .post-list-number {
+  font-size: 0.7rem;
+  color: var(--muted);
+  width: 28px;
+  flex-shrink: 0;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Writings/essays intro */
+.section-intro {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-bottom: 4px;
+}
+
+
+/* ===========================
+   Posts & Pages
+   =========================== */
+
+.page,
+.post {
+  margin-bottom: 4rem;
+}
+
+.page-title {
+  font-size: 1.6rem;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  margin-top: 0;
+  margin-bottom: 8px;
+  color: var(--foreground);
+}
+
+.post-title {
+  font-size: 1.6rem;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  margin-top: 0;
+  margin-bottom: 8px;
+  color: var(--foreground);
+}
+
+.post-title a {
+  color: var(--foreground);
+}
+
+.post-meta {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 32px;
+  padding-bottom: 20px;
+  border-bottom: 0.5px solid var(--hairline);
+}
+
+.post-date {
+  display: inline-block;
+  font-size: 0.75rem;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
+.post-categories {
+  display: flex;
+  gap: 6px;
+}
+
+.post-category {
+  font-size: 0.65rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--foreground);
+  background-color: var(--surface-inset);
+  padding: 2px 8px;
+  border: 0.5px solid var(--hairline);
+  transition: background-color 0.15s ease;
+}
+
+.post-category:hover {
+  background-color: var(--accent);
+  opacity: 1;
+}
+
+.post-location {
+  font-size: 0.75rem;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
+/* Post content typography */
+.post-content {
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.post-content h2 {
+  margin-top: 3rem;
+}
+
+.post-content h3 {
+  margin-top: 2.5rem;
+}
+
+.post-content img {
+  margin: 0;
+  border: 0.5px solid var(--hairline);
+}
+
+.post-content a {
+  border-bottom: 1px solid var(--hairline);
+}
+
+.post-content a:hover {
+  border-bottom-color: var(--accent);
+  opacity: 1;
+}
+
+
+/* ===========================
+   Footer
+   =========================== */
+
+.site-footer {
+  border-top: 0.5px solid var(--hairline);
+  padding: 32px 24px;
+  text-align: center;
+}
+
+.footer-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.footer-links {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.footer-links a {
+  font-size: 0.75rem;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+  transition: color 0.15s ease;
+  border-bottom: none;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.footer-links a:hover {
+  color: var(--foreground);
+  opacity: 1;
+}
+
+.footer-links a svg {
+  width: 14px;
+  height: 14px;
+}
+
+.footer-copy {
+  font-size: 0.7rem;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
+
+/* ===========================
+   F13-style Image Frames with Corner Dots
+   =========================== */
+
+/* Auto-frame: standalone images in markdown get wrapped in <p> tags.
+   Use :has() to detect and style the parent <p> as a frame container. */
+.post-content p:has(> img:only-child),
+.page p:has(> img:only-child),
+.img-frame {
+  position: relative;
+  display: table;
+  margin: 2.5rem 0;
+  padding: 20px;
+  border: 0.5px solid var(--hairline);
+  background:
+    radial-gradient(circle, var(--foreground) 3px, transparent 3.5px) 0 0 / 6px 6px no-repeat,
+    radial-gradient(circle, var(--foreground) 3px, transparent 3.5px) calc(100%) 0 / 6px 6px no-repeat,
+    radial-gradient(circle, var(--foreground) 3px, transparent 3.5px) 0 calc(100%) / 6px 6px no-repeat,
+    radial-gradient(circle, var(--foreground) 3px, transparent 3.5px) calc(100%) calc(100%) / 6px 6px no-repeat;
+}
+
+.post-content p:has(> img:only-child) > img,
+.page p:has(> img:only-child) > img,
+.img-frame > img {
+  margin: 0;
+  border: 0.5px solid var(--hairline);
+  display: block;
+}
+
+/* Also add subtle accent dots near images for extra flair */
+.post-content p:has(> img:only-child)::before,
+.page p:has(> img:only-child)::before,
+.img-frame::before {
+  content: '';
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background: var(--accent);
+  border-radius: 50%;
+  top: 50%;
+  left: -12px;
+  transform: translateY(-50%);
+}
+
+.post-content p:has(> img:only-child)::after,
+.page p:has(> img:only-child)::after,
+.img-frame::after {
+  content: '';
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background: var(--accent);
+  border-radius: 50%;
+  bottom: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* Manual corner-frame class (for non-markdown HTML) */
+.corner-frame {
+  position: relative;
+  display: table;
+  margin: 2.5rem 0;
+  padding: 20px;
+  border: 0.5px solid var(--hairline);
+  background:
+    radial-gradient(circle, var(--foreground) 3px, transparent 3.5px) 0 0 / 6px 6px no-repeat,
+    radial-gradient(circle, var(--foreground) 3px, transparent 3.5px) calc(100%) 0 / 6px 6px no-repeat,
+    radial-gradient(circle, var(--foreground) 3px, transparent 3.5px) 0 calc(100%) / 6px 6px no-repeat,
+    radial-gradient(circle, var(--foreground) 3px, transparent 3.5px) calc(100%) calc(100%) / 6px 6px no-repeat;
+}
+
+.corner-frame > img {
+  margin: 0;
+  border: 0.5px solid var(--hairline);
+}
+
+
+/* ===========================
+   Accent dot decorations
+   =========================== */
+
+.accent-dot {
+  width: 6px;
+  height: 6px;
+  background-color: var(--accent);
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+/* ===========================
+   Tags (legacy support)
+   =========================== */
+
+.tags {
+  display: inline-block;
+  line-height: 1;
+  vertical-align: baseline;
+  margin: 0 4px;
+  background-color: var(--surface-inset);
+  border: 0.5px solid var(--hairline);
+  padding: 4px 10px;
+  font-size: 0.7rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: background-color 0.15s ease;
+}
+
+.tags:hover {
+  background-color: var(--accent);
+}
+
+.tags a {
+  color: var(--foreground);
+}
+
+a.category {
+  opacity: 1;
+}
+
+
+/* ===========================
+   Pagination
+   =========================== */
+
+.pagination {
+  overflow: hidden;
+  margin: 3rem 0 0;
+  text-align: center;
+  display: flex;
+  gap: 0;
+}
+
+.pagination-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  padding: 12px 16px;
+  border: 0.5px solid var(--hairline);
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+  color: var(--muted);
+  transition: background-color 0.15s ease;
+}
+
+.pagination-item + .pagination-item {
+  border-left: none;
+}
+
+a.pagination-item:hover {
+  background-color: var(--surface-inset);
+  color: var(--foreground);
+  opacity: 1;
+}
+
+
+/* ===========================
+   Gist (legacy support)
+   =========================== */
+
+.gist .gist-file {
+  font-family: var(--font-mono) !important;
+}
+
+.gist .markdown-body {
+  padding: 15px;
+}
+
+.gist pre {
+  padding: 0;
+  background-color: transparent;
+}
+
+.gist .gist-file .gist-data {
+  font-size: 0.82rem !important;
+  line-height: 1.4;
+}
+
+.gist code {
+  padding: 0;
+  color: inherit;
+  background-color: transparent;
+  border-radius: 0;
+}
+
+
+/* ===========================
+   Quora embed (legacy)
+   =========================== */
+
+.quora-content-embed {
+  margin: 1.5em 0;
+}
+
+
+/* ===========================
+   Responsive
+   =========================== */
+
+@media (max-width: 640px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  .home-hero h1 {
+    font-size: 1.25rem;
+  }
+
+  .post-title,
+  .page-title {
+    font-size: 1.3rem;
+  }
+
+  .post-meta {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .post-list-item {
+    flex-direction: column;
+    gap: 2px;
+    padding: 10px 0;
+  }
+
+  .post-list-item .post-list-date {
+    font-size: 0.65rem;
+  }
+
+  .footer-links {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
