@@ -44,12 +44,12 @@
 }
 
 .site-nav a:hover {
-  background-color: var(--surface-inset);
+  background-color: rgba(255, 207, 34, 0.15);
   opacity: 1;
 }
 
 /* No double borders between adjacent items */
-.site-nav a + a {
+.site-nav a+a {
   border-left: none;
 }
 
@@ -137,13 +137,13 @@
     transition: background-color 0.15s ease;
   }
 
-  .mobile-nav-right a + a {
+  .mobile-nav-right a+a {
     border-left: none;
   }
 
   .mobile-nav-right a:hover {
     opacity: 1;
-    background-color: var(--surface-inset);
+    background-color: rgba(255, 207, 34, 0.15);
   }
 
   .mobile-nav-right .nav-cta {
@@ -165,7 +165,7 @@
   }
 
   .mobile-nav-toggle:hover {
-    background-color: var(--surface-inset);
+    background-color: rgba(255, 207, 34, 0.15);
   }
 
   /* Collapsible mobile menu */
@@ -201,7 +201,7 @@
   }
 
   .mobile-menu a:hover {
-    background-color: var(--surface-inset);
+    background-color: rgba(255, 207, 34, 0.15);
     opacity: 1;
   }
 }
@@ -287,7 +287,7 @@
 }
 
 .category-head a:hover {
-  color: var(--foreground);
+  color: #B8930F;
   opacity: 1;
 }
 
@@ -335,7 +335,7 @@
 }
 
 .post-list-item:hover .post-list-title {
-  color: var(--muted);
+  color: #B8930F;
 }
 
 .post-list-item .post-list-date {
@@ -476,6 +476,7 @@
   overflow: hidden;
   min-height: 440px;
   padding: 0;
+  background-color: #FFF9E6;
 }
 
 /* Chaos background layer — fills entire footer */
@@ -524,6 +525,9 @@
   line-height: 1.4;
   margin: 0;
   max-width: 400px;
+  background: linear-gradient(transparent 55%, rgba(255, 207, 34, 0.25) 55%);
+  display: inline;
+  padding: 0 4px;
 }
 
 /* Social links */
@@ -548,7 +552,7 @@
 }
 
 .footer-links a:hover {
-  color: var(--foreground);
+  color: #B8930F;
   opacity: 1;
 }
 
@@ -618,9 +622,9 @@
     radial-gradient(circle, var(--foreground) 3px, transparent 3.5px) calc(100%) calc(100%) / 6px 6px no-repeat;
 }
 
-.post-content p:has(> img:only-child) > img,
-.page p:has(> img:only-child) > img,
-.img-frame > img {
+.post-content p:has(> img:only-child)>img,
+.page p:has(> img:only-child)>img,
+.img-frame>img {
   margin: 0;
   border: 0.5px solid var(--hairline);
   display: block;
@@ -669,7 +673,7 @@
     radial-gradient(circle, var(--foreground) 3px, transparent 3.5px) calc(100%) calc(100%) / 6px 6px no-repeat;
 }
 
-.corner-frame > img {
+.corner-frame>img {
   margin: 0;
   border: 0.5px solid var(--hairline);
 }
@@ -745,12 +749,12 @@ a.category {
   transition: background-color 0.15s ease;
 }
 
-.pagination-item + .pagination-item {
+.pagination-item+.pagination-item {
   border-left: none;
 }
 
 a.pagination-item:hover {
-  background-color: var(--surface-inset);
+  background-color: rgba(255, 207, 34, 0.15);
   color: var(--foreground);
   opacity: 1;
 }

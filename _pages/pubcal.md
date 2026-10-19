@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Public Calendar
+permalink: /pubcal/
 ---
 
 <small>Just an aerial overview of my day!</small> 

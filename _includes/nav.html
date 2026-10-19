@@ -2,19 +2,22 @@
 <div class="nav-backdrop">
   <nav class="site-nav">
     <a class="nav-brand" href="{{ '/' }}">{{ site.title }}</a>
-    <a class="nav-item" href="{{ '/' }}">
-      <span>Blog</span>
-    </a>
     <a class="nav-item" href="/about/">
       <span>About</span>
     </a>
     <a class="nav-item" href="/essays/">
       <span>Essays</span>
     </a>
+    <a class="nav-item" href="/audio_archive/">
+      <span>Audio Archive</span>
+    </a>
+    <a class="nav-item" href="/pubcal/">
+      <span>Calendar</span>
+    </a>
     <a class="nav-item" href="https://ovebepari.github.io/photography/" target="_blank">
       <span>Photography ↗</span>
     </a>
-    <a class="nav-cta" href="https://github.com/ovebepari" target="_blank">GitHub ↗</a>
+    <a class="nav-cta" href="/cv/ove_cv.pdf" target="_blank">CV ↗</a>
   </nav>
 </div>
 
@@ -22,14 +25,15 @@
 <div class="mobile-nav">
   <a class="nav-brand" href="{{ '/' }}">{{ site.title }}</a>
   <div class="mobile-nav-right">
-    <a class="nav-cta" href="https://github.com/ovebepari" target="_blank">GitHub</a>
+    <a class="nav-cta" href="/cv/ove_cv.pdf" target="_blank">CV</a>
     <button class="mobile-nav-toggle" onclick="document.getElementById('mobile-menu').classList.toggle('open')">Menu</button>
   </div>
 </div>
 
 <div class="mobile-menu" id="mobile-menu">
-  <a href="{{ '/' }}">Blog</a>
   <a href="/about/">About</a>
   <a href="/essays/">Essays</a>
+  <a href="/audio_archive/">Audio Archive</a>
+  <a href="/pubcal/">Calendar</a>
   <a href="https://ovebepari.github.io/photography/" target="_blank">Photography ↗</a>
 </div>

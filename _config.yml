@@ -30,3 +30,6 @@ defaultpostimage: /assets/images/ove.jpg
 message: 
 
 exclude: []
+
+include:
+  - _pages

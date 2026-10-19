@@ -2,6 +2,7 @@
 layout: post
 title: Political Calendar 
 description: Bangladesh's political calendar and events, all in one place
+permalink: /polcal/
 image: /assets/images/writings/political_leader.jpg
 comments: false
 location: Dhaka, Bangladesh

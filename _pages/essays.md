@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Writings & Essays
+permalink: /essays/
 ---
 
 <div class="img-frame">
