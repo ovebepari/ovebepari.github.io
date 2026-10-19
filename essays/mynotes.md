@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Documenting my notes 
+permalink: /essays/mynotes/
 description: Documenting my notes, uncensored, demonstrating how distracted I get from time to time!
 image: /assets/images/writings/notes/01.jpg
 comments: false

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How I view the world now 
+permalink: /essays/myworldview/
 description: My thoughts on how I veiw the world now 
 image: "/assets/images/writings/conflict.jpeg"
 comments: false

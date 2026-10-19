@@ -1,5 +1,6 @@
 ---
 title: My Cooking Story!
+permalink: /essays/my-cooking-story/
 layout: post
 description: How I view cooking and influences I've had
 image: "/assets/images/writings/kamrul.jpg"

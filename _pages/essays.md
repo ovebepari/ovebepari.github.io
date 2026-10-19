@@ -10,21 +10,21 @@ permalink: /essays/
 
 <ul class="post-list">
   <li>
-    <a class="post-list-item" href="/Random_writings/mynotes/">
+    <a class="post-list-item" href="/essays/mynotes/">
       <span class="post-list-number">01</span>
       <span class="post-list-title">Documenting my notes!</span>
       <span class="post-list-date">→</span>
     </a>
   </li>
   <li>
-    <a class="post-list-item" href="/Random_writings/myworldview/">
+    <a class="post-list-item" href="/essays/myworldview/">
       <span class="post-list-number">02</span>
       <span class="post-list-title">How I view the world now (incomplete)!</span>
       <span class="post-list-date">→</span>
     </a>
   </li>
   <li>
-    <a class="post-list-item" href="/Random_writings/my-cooking-story/">
+    <a class="post-list-item" href="/essays/my-cooking-story/">
       <span class="post-list-number">03</span>
       <span class="post-list-title">My Cooking story! (incomplete)!</span>
       <span class="post-list-date">→</span>
